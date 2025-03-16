@@ -13,14 +13,14 @@ By integrating data visualization, news analysis, and social media analysis, thi
 
 ## Repository Contents
 
-- `data/`: includes datasets retrieved and processed
-- `docs/`: includes interactive visualizations
-- `images`: includes static images and charts from the analysis
-- `notebooks`: includes python notebooks for scraping and analysis
+- `data/`: Contains retrieved and processed datasets.
+- `docs/`: Hosts interactive visualizations, which are available on GitHub Pages.
+- `images/`: Stores static images and charts from the analysis.
+- `notebooks/`: Includes Python notebooks for web scraping and data analysis.
 
 ## Data Sources
 
-Our data is sourced from:
+Our data are sourced from:
 
 - Layoffs.fyi - Real-time layoff tracker
 - Wikipedia - Company informations, including background details and revenues
