@@ -6,7 +6,7 @@ This project analyzes layoff trends in the tech industry from March 2022 to Febr
 - Time-series analysis: Tracking layoffs over time and identifying key trends.
 - Industry segmentation: Analyzing layoffs across different sub-industries.
 - Geospatial distribution: Visualizing the most affected regions worldwide.
-- Revenue analysis: Identifying the relationship between revenue trends and layoff
+- Revenue analysis: Identifying the relationship between revenue trends and layoff.
 - News analysis: Extracting key themes and reasons behind layoffs from industry news.
 - Social media insights: Analyzing job market discussions from Reddit's jobs section.
 
