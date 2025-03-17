@@ -1,0 +1,829 @@
+,Company,Industry,Layoff Date,Ticker_x,Ticker_y,Revenue Drop Before Layoff,Revenue Drop After Layoff
+0,HP,Hardware,2025-02-28,,,,
+1,Autodesk,Other,2025-02-27,ADSK,ADSK,False,
+2,Google,Consumer,2025-02-27,GOOG,GOOG,False,
+3,eBay,Retail,2025-02-26,EBAY,EBAY,False,
+4,Dayforce,HR,2025-02-26,DAY,DAY,False,
+5,Expedia,Travel,2025-02-26,,,,
+6,Ibotta,Retail,2025-02-22,IBTA,IBTA,True,
+7,NetEase,Consumer,2025-02-22,NTES,NTES,False,
+8,Riskified,Retail,2025-02-19,RSKD,RSKD,False,
+9,Redfin,Real Estate,2025-02-12,RDFN,RDFN,True,
+10,Unity,Other,2025-02-11,,,,
+11,Meta,Consumer,2025-02-10,,,,
+12,Wise,Finance,2025-02-10,,,,
+13,Sprinklr,Support,2025-02-06,Not Found,Not Found,,
+14,Workday,HR,2025-02-05,,,,
+15,Outbrain,Marketing,2025-02-05,OB,OB,False,
+16,Sonos,Consumer,2025-02-05,SONO,SONO,True,
+17,Okta,Security,2025-02-04,,,,
+18,Asana,Other,2025-02-04,,,,
+19,TripAdvisor,Travel,2025-02-04,Not Found,Not Found,,
+20,Intel,Hardware,2025-02-04,INTC,INTC,False,
+21,Salesforce,Sales,2025-02-03,CRM,CRM,False,
+22,Amazon,Retail,2025-01-29,,,,
+23,Microsoft,Other,2025-01-14,MSFT,MSFT,False,
+24,Boozt,Retail,2025-01-13,,,,
+25,Wayfair,Retail,2025-01-10,W,W,True,
+26,Zillow,Real Estate,2025-01-10,Z,Z,,
+27,Redfin,Real Estate,2025-01-09,RDFN,RDFN,True,
+28,Microsoft,Other,2025-01-07,MSFT,MSFT,False,
+29,SolarEdge,Energy,2025-01-06,SEDG,SEDG,True,
+30,Lilium,Aerospace,2024-12-23,,,,
+31,Cint,Data,2024-12-12,,,,
+32,Canoo,Transportation,2024-12-11,GOEVQ,GOEVQ,,
+33,Booking Holdings,Travel,2024-12-04,BKNG,BKNG,False,
+34,2U,Education,2024-12-04,,,,
+35,Lightspeed Commerce,Retail,2024-12-02,TSX,TSX,,
+36,SolarEdge,Energy,2024-11-27,SEDG,SEDG,True,
+37,Sprout Social,Marketing,2024-11-25,SPT,SPT,False,
+38,Ola Electric,Transportation,2024-11-22,OLAELEC,OLAELEC,,
+39,AMD,Hardware,2024-11-13,AMD,AMD,False,
+40,AppLovin,Marketing,2024-11-13,APP,APP,False,
+41,Chegg,Education,2024-11-12,Not Found,Not Found,,
+42,Enphase Energy,Energy,2024-11-11,ENPH,ENPH,False,
+43,23andMe,Healthcare,2024-11-11,ME,ME,True,
+44,BigCommerce,Retail,2024-11-08,BIGC,BIGC,False,
+45,Freshworks,Support,2024-11-07,FRSH,FRSH,False,
+46,Opendoor,Real Estate,2024-11-07,OPEN,OPEN,True,
+47,Akamai,Security,2024-11-07,AKAM,AKAM,True,
+48,iRobot,Consumer,2024-11-06,IRBT,IRBT,False,
+49,Avaya,Other,2024-11-06,Not Found,Not Found,,
+50,Dropbox,Other,2024-10-30,DBX,DBX,False,
+51,F5,Security,2024-10-29,,,,
+52,Coursera,Education,2024-10-25,,,,
+53,Upwork,Other,2024-10-23,Not Found,Not Found,,
+54,Meta,Consumer,2024-10-16,,,,
+55,Nikola,Transportation,2024-10-11,,,,
+56,PubMatic,Marketing,2024-10-07,PUBM,PUBM,False,
+57,Zapata Computing,Other,2024-10-07,,,,
+58,F5,Security,2024-09-24,,,,
+59,Olo,Food,2024-09-23,,,,
+60,Luminar,Transportation,2024-09-20,,,,
+61,IBM,Hardware,2024-09-18,IBM,IBM,True,False
+62,Microsoft,Other,2024-09-12,MSFT,MSFT,True,False
+63,Udemy,Education,2024-09-11,Not Found,Not Found,,
+64,Mobileye,Transportation,2024-09-09,MBLY,MBLY,True,False
+65,Lyft,Transportation,2024-09-04,LYFT,LYFT,False,False
+66,Apple,Hardware,2024-08-27,,,,
+67,IBM,Hardware,2024-08-26,IBM,IBM,True,False
+68,Velo3D,Manufacturing,2024-08-26,,,,
+69,Redfin,Real Estate,2024-08-22,RDFN,RDFN,False,True
+70,Five9,Support,2024-08-20,,,,
+71,GoPro,Consumer,2024-08-19,GPRO,GPRO,True,True
+72,AppLovin,Marketing,2024-08-15,APP,APP,False,False
+73,Mister Spex,Retail,2024-08-15,Not Found,Not Found,,
+74,Sonos,Consumer,2024-08-14,SONO,SONO,True,False
+75,Grail,Healthcare,2024-08-13,,,,
+76,Cisco,Infrastructure,2024-08-09,CSCO,CSCO,True,False
+77,Fastly,Infrastructure,2024-08-08,FSLY,FSLY,True,False
+78,Eventbrite,Consumer,2024-08-07,Not Found,Not Found,,
+79,LegalZoom,Legal,2024-08-07,LZ,LZ,False,True
+80,Teradata,Data,2024-08-06,TDC,TDC,True,True
+81,Infineon,Manufacturing,2024-08-05,IFX,IFX,,
+82,Dell,Hardware,2024-08-05,Not Found,Not Found,,
+83,Intel,Hardware,2024-08-01,INTC,INTC,True,False
+84,Avaya,Other,2024-08-01,Not Found,Not Found,,
+85,Delivery Hero,Food,2024-07-31,DHER,DHER,,
+86,Match Group,Consumer,2024-07-31,MTCH,MTCH,,
+87,NerdWallet,Finance,2024-07-30,Not Found,Not Found,,
+88,SolarEdge,Energy,2024-07-15,SEDG,SEDG,True,True
+89,Salesforce,Sales,2024-07-15,CRM,CRM,True,False
+90,Spotify,Media,2024-07-15,Not Found,Not Found,,
+91,Intuit,Finance,2024-07-10,INTU,INTU,False,False
+92,UIPath,Other,2024-07-09,PATH,PATH,True,False
+93,OpenText,Data,2024-07-03,TSX,TSX,,
+94,Microsoft,Other,2024-07-03,MSFT,MSFT,True,False
+95,Cint,Data,2024-07-01,,,,
+96,Planet,Aerospace,2024-06-26,,,,
+97,eBay,Retail,2024-06-26,EBAY,EBAY,True,False
+98,Perion,Marketing,2024-06-25,,,,
+99,Ginkgo Bioworks,Healthcare,2024-06-24,DNA,DNA,True,True
+100,Ginkgo Bioworks,Healthcare,2024-06-20,DNA,DNA,True,True
+101,Wex,Finance,2024-06-18,,,,
+102,PayPal,Finance,2024-06-18,PYPL,PYPL,True,True
+103,Fisker,Transportation,2024-06-18,,,,
+104,Chegg,Education,2024-06-17,Not Found,Not Found,,
+105,Satellogic,Aerospace,2024-06-14,SATL,SATL,,
+106,Medtronic,Healthcare,2024-06-13,MDT,MDT,False,True
+107,Pagaya,Finance,2024-06-05,,,,
+108,Yext,Marketing,2024-06-05,Not Found,Not Found,,
+109,Microsoft,Other,2024-06-03,MSFT,MSFT,True,False
+110,Google,Consumer,2024-05-31,GOOG,GOOG,True,False
+111,Fisker,Transportation,2024-05-29,,,,
+112,Funding Circle,Finance,2024-05-29,FCH,FCH,,
+113,Lucid Motors,Transportation,2024-05-24,LCID,LCID,,
+114,Satellogic,Aerospace,2024-05-24,SATL,SATL,,
+115,Cue Health,Healthcare,2024-05-22,,,,
+116,Rivian,Transportation,2024-05-10,RIVN,RIVN,,
+117,Google,Consumer,2024-05-10,GOOG,GOOG,True,False
+118,Vacasa,Travel,2024-05-09,VCSA,VCSA,True,True
+119,Kinaxis,Other,2024-05-08,TSX,TSX,,
+120,Enovix,Energy,2024-05-06,,,,
+121,Cue Health,Healthcare,2024-05-03,,,,
+122,Rivian,Transportation,2024-05-03,RIVN,RIVN,,
+123,Luminar,Transportation,2024-05-03,,,,
+124,Sprinklr,Support,2024-05-03,Not Found,Not Found,,
+125,Bakkt,Crypto,2024-05-03,BKKT,BKKT,False,True
+126,Peloton,Fitness,2024-05-02,,,,
+127,Google,Consumer,2024-05-01,GOOG,GOOG,True,False
+128,Tesla,Transportation,2024-04-30,,,,
+129,Akili Interactive,Healthcare,2024-04-30,,,,
+130,Google,Consumer,2024-04-30,GOOG,GOOG,True,False
+131,Fisker,Transportation,2024-04-29,,,,
+132,Expedia,Travel,2024-04-24,,,,
+133,Google,Consumer,2024-04-17,GOOG,GOOG,True,False
+134,Rivian,Transportation,2024-04-17,RIVN,RIVN,,
+135,Take-Two,Consumer,2024-04-16,TTWO,TTWO,False,False
+136,Tesla,Transportation,2024-04-15,,,,
+137,Criteo,Marketing,2024-04-12,CRTO,CRTO,True,True
+138,Intel,Hardware,2024-04-09,INTC,INTC,True,False
+139,Apple,Hardware,2024-04-04,,,,
+140,Lightspeed Commerce,Retail,2024-04-03,TSX,TSX,,
+141,Amazon,Retail,2024-04-03,,,,
+142,GoPro,Consumer,2024-03-26,GPRO,GPRO,False,False
+143,Dell,Hardware,2024-03-25,Not Found,Not Found,,
+144,Singular Genomics,Healthcare,2024-03-19,,,,
+145,Ancestry,Consumer,2024-03-14,,,,
+146,IBM,Hardware,2024-03-12,IBM,IBM,True,True
+147,Meta,Consumer,2024-03-06,,,,
+148,Edgio,Infrastructure,2024-03-04,Not Found,Not Found,,
+149,Fisker,Transportation,2024-02-29,,,,
+150,Electronic Arts,Consumer,2024-02-28,EA,EA,True,True
+151,Vacasa,Travel,2024-02-28,VCSA,VCSA,True,False
+152,Bumble,Consumer,2024-02-27,BMBL,BMBL,True,False
+153,PropertyGuru,Real Estate,2024-02-27,,,,
+154,Apple,Transportation,2024-02-27,,,,
+155,Expedia,Travel,2024-02-26,,,,
+156,Affirm,Finance,2024-02-21,,,,
+157,BuzzFeed,Media,2024-02-21,BZFD,BZFD,,
+158,Rivian,Transportation,2024-02-21,RIVN,RIVN,,
+159,Aptiv,Transportation,2024-02-20,APTV,APTV,True,True
+160,Toast,Food,2024-02-15,,,,
+161,Sonder,Travel,2024-02-15,,,,
+162,Storytel,Consumer,2024-02-15,Not Found,Not Found,,
+163,Cisco,Infrastructure,2024-02-14,CSCO,CSCO,True,False
+164,Instacart,Food,2024-02-13,CART,CART,False,False
+165,Impinj,Other,2024-02-13,PI,PI,True,True
+166,Riskified,Retail,2024-02-13,RSKD,RSKD,True,False
+167,SiriusXM,Media,2024-02-12,SIRI,SIRI,False,True
+168,Pure Storage,Data,2024-02-08,PSTG,PSTG,False,False
+169,Otovo,Energy,2024-02-08,,,,
+170,Getaround,Transportation,2024-02-08,GETR,GETR,,
+171,Tenable,Security,2024-02-07,,,,
+172,DocuSign,Sales,2024-02-06,DOCU,DOCU,False,False
+173,Amazon,Retail,2024-02-06,,,,
+174,Snap,Consumer,2024-02-05,,,,
+175,Cue Health,Healthcare,2024-02-02,,,,
+176,Okta,Security,2024-02-01,,,,
+177,Zoom,Other,2024-02-01,,,,
+178,Illumina,Healthcare,2024-02-01,,,,
+179,Innoviz,Transportation,2024-01-31,Not Found,Not Found,,
+180,Zuora,Finance,2024-01-31,Not Found,Not Found,,
+181,PayPal,Finance,2024-01-30,PYPL,PYPL,False,True
+182,Block,Finance,2024-01-30,,,,
+183,Procore,Construction,2024-01-30,PCOR,PCOR,False,False
+184,iRobot,Consumer,2024-01-29,IRBT,IRBT,True,False
+185,Salesforce,Sales,2024-01-26,CRM,CRM,False,True
+186,Microsoft,Other,2024-01-25,MSFT,MSFT,False,False
+187,Jamf,Other,2024-01-25,JAMF,JAMF,False,False
+188,Storytel,Media,2024-01-24,Not Found,Not Found,,
+189,Aurora,Transportation,2024-01-24,,,,
+190,Desktop Metal,Other,2024-01-24,DM,DM,True,True
+191,HubSpot,Marketing,2024-01-24,HUBS,HUBS,False,False
+192,SAP,Other,2024-01-23,SAP,SAP,False,False
+193,eBay,Retail,2024-01-23,EBAY,EBAY,True,False
+194,Vroom,Transportation,2024-01-23,,,,
+195,2U,Education,2024-01-22,,,,
+196,Google,Consumer,2024-01-22,GOOG,GOOG,False,False
+197,SolarEdge,Energy,2024-01-21,SEDG,SEDG,True,True
+198,Wayfair,Retail,2024-01-19,W,W,True,True
+199,Amazon,Retail,2024-01-18,,,,
+200,Stitch Fix,Retail,2024-01-18,SFIX,SFIX,True,True
+201,Google,Consumer,2024-01-16,GOOG,GOOG,False,False
+202,New Work SE,Consumer,2024-01-11,Not Found,Not Found,,
+203,Playtika,Consumer,2024-01-11,PLTK,PLTK,True,True
+204,Cloudflare,Security,2024-01-11,NET,NET,False,False
+205,888,Consumer,2024-01-11,,,,
+206,Google,Consumer,2024-01-10,GOOG,GOOG,False,False
+207,IAC,Consumer,2024-01-10,,,,
+208,Amazon,Retail,2024-01-10,,,,
+209,SoFi,Finance,2024-01-10,SOFI,SOFI,False,True
+210,Nevro,Healthcare,2024-01-09,Not Found,Not Found,,
+211,Rent the Runway,Retail,2024-01-09,Not Found,Not Found,,
+212,EVBox,Energy,2024-01-09,Not Found,Not Found,,
+213,Unity,Other,2024-01-08,,,,
+214,NuScale Power,Energy,2024-01-08,SMR,SMR,True,True
+215,MeridianLink,Finance,2024-01-08,,,,
+216,NanoString Technologies,Healthcare,2024-01-06,NSTGQ,NSTGQ,,
+217,Cue Health,Healthcare,2024-01-05,,,,
+218,Xerox,Hardware,2024-01-03,XRX,XRX,True,True
+219,Ocado,Food,2023-12-31,OCDO,OCDO,,
+220,Intel,Hardware,2023-12-21,INTC,INTC,False,True
+221,Kaspien,Retail,2023-12-19,KSPN,KSPN,True,
+222,Enphase Energy,Energy,2023-12-18,ENPH,ENPH,True,True
+223,Arm Holdings,Hardware,2023-12-18,ARM,ARM,False,False
+224,Delivery Hero,Food,2023-12-18,DHER,DHER,,
+225,eBay,Retail,2023-12-17,EBAY,EBAY,True,True
+226,Invitae,Healthcare,2023-12-13,NVTAQ,NVTAQ,False,
+227,Etsy,Retail,2023-12-13,ETSY,ETSY,True,True
+228,Analog Devices,Manufacturing,2023-12-13,ADI,ADI,True,True
+229,TomTom,Transportation,2023-12-12,TOM2,TOM2,,
+230,SmileDirectClub,Healthcare,2023-12-09,SDCCQ,SDCCQ,,
+231,Rivian,Transportation,2023-12-07,RIVN,RIVN,,
+232,Bill.com,Finance,2023-12-05,BILL,BILL,False,False
+233,Spotify,Media,2023-12-04,Not Found,Not Found,,
+234,TuSimple,Transportation,2023-12-04,TSPH,TSPH,,
+235,Twilio,Other,2023-12-04,Not Found,Not Found,,
+236,Domo,Data,2023-11-30,,,,
+237,Unity,Other,2023-11-28,,,,
+238,Presto,Food,2023-11-20,,,,
+239,Amazon,Retail,2023-11-17,,,,
+240,Sonos,Consumer,2023-11-16,SONO,SONO,True,True
+241,Singular Genomics,Healthcare,2023-11-15,,,,
+242,Chewy,Retail,2023-11-14,,,,
+243,Sarcos,Aerospace,2023-11-14,Not Found,Not Found,,
+244,Markforged,Manufacturing,2023-11-14,MKFG,MKFG,True,True
+245,Amazon,Retail,2023-11-13,,,,
+246,TripAdvisor,Travel,2023-11-12,Not Found,Not Found,,
+247,Snap,Consumer,2023-11-08,,,,
+248,Amazon,Retail,2023-11-08,,,,
+249,BigCommerce,Retail,2023-11-08,BIGC,BIGC,False,True
+250,Google,Consumer,2023-11-08,GOOG,GOOG,False,True
+251,Oportun,Finance,2023-11-07,,,,
+252,Zillow,Real Estate,2023-11-07,Z,Z,,
+253,Nextdoor,Consumer,2023-11-07,KIND,KIND,True,True
+254,F5,Security,2023-11-03,,,,
+255,NIO,Transportation,2023-11-03,,,,
+256,Viasat,Other,2023-11-02,,,,
+257,Beyond Meat,Food,2023-11-02,BYND,BYND,True,False
+258,Sportradar,Data,2023-11-02,SRAD,SRAD,True,False
+259,Informatica,Data,2023-11-01,INFA,INFA,False,True
+260,Splunk,Data,2023-11-01,Not Found,Not Found,,
+261,Hippo Insurance,Finance,2023-10-26,HIPO,HIPO,False,False
+262, F-Secure ,Security,2023-10-25,FSECURE,,,
+263,LegalZoom,Legal,2023-10-19,LZ,LZ,True,False
+264,Google,Consumer,2023-10-18,GOOG,GOOG,False,True
+265,Expedia,Travel,2023-10-17,,,,
+266,Qualcomm,Hardware,2023-10-12,QCOM,QCOM,,
+267,Lending Club,Finance,2023-10-12,LC,LC,True,False
+268,MariaDB,Data,2023-10-12,,,,
+269,Stitch Fix,Retail,2023-10-09,SFIX,SFIX,True,True
+270,Juniper Networks,Hardware,2023-10-06,JNPR,JNPR,True,True
+271,Shift,Transportation,2023-10-06,,,,
+272,Enovix,Energy,2023-10-05,,,,
+273,Arrival,Transportation,2023-10-05,,,,
+274,Bird,Transportation,2023-10-04,,,,
+275,Block,Finance,2023-10-04,,,,
+276,Meta,Consumer,2023-10-04,,,,
+277,IronNet,Security,2023-10-02,,,,
+278,Sono Motors,Transportation,2023-10-02,SEV,SEV,,
+279,2U,Education,2023-09-28,,,,
+280,Snap,Consumer,2023-09-27,,,,
+281,Roblox,Consumer,2023-09-22,,,,
+282,Robinhood,Finance,2023-09-21,,,,
+283,Cisco,Infrastructure,2023-09-17,CSCO,CSCO,False,True
+284,Sage Therapeutics copy,Healthcare,2023-09-15,,,,
+285,Google,Consumer,2023-09-13,GOOG,GOOG,True,True
+286,Akili Labs,Healthcare,2023-09-13,,,,
+287,Roku,Media,2023-09-06,,,,
+288,iSpecimen,Healthcare,2023-09-06,,,,
+289,Absci,Healthcare,2023-09-05,Not Found,Not Found,,
+290,Pegasystems,HR,2023-08-31,PEGA,PEGA,True,True
+291,Expedia,Travel,2023-08-31,,,,
+292,Zebra Technologies,Manufacturing,2023-08-28,ZBRA,ZBRA,True,False
+293,SenseTime,AI,2023-08-28,Not Found,Not Found,,
+294,Fortinet,Security,2023-08-25,FTNT,FTNT,True,True
+295,BlackLine,Finance,2023-08-23,BL,BL,True,False
+296,Tempo Automation,Other,2023-08-22,TMPO,TMPO,,
+297,Illumina,Healthcare,2023-08-17,,,,
+298,AppFolio,Real Estate,2023-08-17,APPF,APPF,False,False
+299,Intel,Hardware,2023-08-17,INTC,INTC,True,True
+300,SecureWorks,Security,2023-08-14,,,,
+301,Shutterfly,Manufacturing,2023-08-10,Not Found,Not Found,,
+302,NCC Group,Security,2023-08-10,NCC,NCC,,
+303,Blend,Finance,2023-08-09,,,,
+304,Babylon Health,Healthcare,2023-08-09,BBLN,BBLN,,
+305,Bukalapak,Retail,2023-08-09,BUKA,BUKA,,
+306,Thoughtworks,Other,2023-08-08,Not Found,Not Found,,
+307,Rapid7,Security,2023-08-08,,,,
+308,Doximity,Healthcare,2023-08-08,DOCS,DOCS,True,True
+309,23andMe,Healthcare,2023-08-08,ME,ME,True,True
+310,Dell,Hardware,2023-08-07,Not Found,Not Found,,
+311,Astra,Aerospace,2023-08-04,,,,
+312,Salesforce,Sales,2023-08-02,CRM,CRM,True,True
+313,TripAdvisor,Travel,2023-08-02,Not Found,Not Found,,
+314,Planet,Aerospace,2023-08-01,,,,
+315,Kape Technologies,Security,2023-07-30,,,,
+316,Kape,Security,2023-07-28,,,,
+317,Homology,Healthcare,2023-07-28,,,,
+318,Wish,Retail,2023-07-27,,,,
+319,Kleos Space,Aerospace,2023-07-26,,,,
+320,AppHarvest,Food,2023-07-24,APPHQ,APPHQ,,
+321,Phunware,Other,2023-07-20,PHUN,PHUN,,
+322,Inspirato,Travel,2023-07-19,,,,
+323,Blue Apron,Food,2023-07-19,Not Found,Not Found,,
+324,Microsoft,Other,2023-07-18,MSFT,MSFT,False,True
+325,Sarcos,Aerospace,2023-07-17,Not Found,Not Found,,
+326,IBM,Hardware,2023-07-17,IBM,IBM,True,True
+327,Amazon,Retail,2023-07-13,,,,
+328,AudioCodes,Other,2023-07-13,AUDC,AUDC,True,True
+329,Tempo Automation,Other,2023-07-13,TMPO,TMPO,,
+330,Peloton,Fitness,2023-07-13,,,,
+331,Bark,Retail,2023-07-13,,,,
+332,Stitch Fix,Retail,2023-07-12,SFIX,SFIX,True,True
+333,DeepVerge,Healthcare,2023-07-12,,,,
+334,Freightos,Logistics,2023-07-12,Not Found,Not Found,,
+335,Expedia,Travel,2023-07-12,,,,
+336,Matterport,Data,2023-07-11,Not Found,Not Found,,
+337,Everquote,Finance,2023-07-11,EVER,EVER,True,False
+338,Butterfly Network copy,Healthcare,2023-07-11,,,,
+339,Shift,Transportation,2023-07-11,,,,
+340,Latch,Security,2023-07-10,,,,
+341,Amdocs,Support,2023-07-06,DOX,DOX,False,False
+342,Vista Group,Data,2023-07-05,ASX,ASX,True,True
+343,Zip,Finance,2023-07-02,,,,
+344,Selina,Travel,2023-06-27,,,,
+345,New Relic,Infrastructure,2023-06-27,Not Found,Not Found,,
+346,Lordstown Motors,Transportation,2023-06-27,NRDE,NRDE,,
+347,Payoneer,Finance,2023-06-26,PAYO,PAYO,False,False
+348,Robinhood,Finance,2023-06-26,,,,
+349,Uber,Transportation,2023-06-21,UBER,UBER,False,False
+350,Illumina,Healthcare,2023-06-21,,,,
+351,Grab,Transportation,2023-06-20,,,,
+352,Nikola,Transportation,2023-06-16,,,,
+353,Qualcomm,Hardware,2023-06-16,QCOM,QCOM,,
+354,Sonos,Consumer,2023-06-14,SONO,SONO,True,True
+355,TrueCar,Transportation,2023-06-14,TRUE,TRUE,True,False
+356,Olo,Food,2023-06-14,,,,
+357,Western Digital,Hardware,2023-06-13,WDC,WDC,True,False
+358,Zalando,Retail,2023-06-13,ZAL,ZAL,,
+359,Chegg,Education,2023-06-12,Not Found,Not Found,,
+360,23andMe,Healthcare,2023-06-09,ME,ME,True,True
+361,Freshworks,Support,2023-06-08,FRSH,FRSH,False,False
+362,Nubank,Finance,2023-06-07,NU,NU,False,False
+363,HashiCorp,Infrastructure,2023-06-07,Not Found,Not Found,,
+364,Coherent,Manufacturing,2023-06-06,,,,
+365,Edgio,Infrastructure,2023-06-06,Not Found,Not Found,,
+366,Unity,Other,2023-06-06,,,,
+367,Spotify,Media,2023-06-05,Not Found,Not Found,,
+368,ZoomInfo,Sales,2023-06-02,ZI,ZI,True,False
+369,Outbrain,Marketing,2023-06-01,OB,OB,True,False
+370,SentinelOne,Security,2023-06-01,S,S,False,False
+371,ZipRecruiter,Recruiting,2023-05-31,Not Found,Not Found,,
+372,DHI Group,Recruiting,2023-05-26,,,,
+373,Western Digital,Hardware,2023-05-24,WDC,WDC,True,False
+374,Qualcomm,Hardware,2023-05-23,QCOM,QCOM,,
+375,AppFolio,Real Estate,2023-05-22,APPF,APPF,True,False
+376,TuSimple,Transportation,2023-05-18,TSPH,TSPH,,
+377,Lemonade,Finance,2023-05-16,,,,
+378,Telenav,Transportation,2023-05-12,Not Found,Not Found,,
+379,CS Disco,Legal,2023-05-11,,,,
+380,Microsoft,Other,2023-05-10,MSFT,MSFT,False,False
+381,Redbubble,Retail,2023-05-10,Not Found,Not Found,,
+382,Similarweb,Other,2023-05-10,Not Found,Not Found,,
+383,Akamai,Security,2023-05-09,AKAM,AKAM,True,False
+384,AudioCodes,Other,2023-05-09,AUDC,AUDC,True,False
+385,Marqeta,Finance,2023-05-09,Not Found,Not Found,,
+386,Twist Bioscience,Healthcare,2023-05-05,TWST,TWST,True,False
+387,Shopify,Retail,2023-05-04,SHOP,SHOP,True,False
+388,Sabre,Travel,2023-05-04,,,,
+389,Unity,Other,2023-05-03,,,,
+390,Upwork,Other,2023-05-03,Not Found,Not Found,,
+391,Brightcove,Marketing,2023-05-03,Not Found,Not Found,,
+392,Cue Health,Healthcare,2023-04-28,,,,
+393,Dropbox,Other,2023-04-27,DBX,DBX,False,False
+394,Alteryx,Data,2023-04-27,Not Found,Not Found,,
+395,Vroom,Transportation,2023-04-27,,,,
+396,Megaport,Infrastructure,2023-04-27,,,,
+397,Lyft,Transportation,2023-04-21,LYFT,LYFT,True,False
+398,BuzzFeed,Media,2023-04-20,BZFD,BZFD,,
+399,Lenovo,Hardware,2023-04-20,Not Found,Not Found,,
+400,F5,Security,2023-04-19,,,,
+401,WalkMe,Other,2023-04-19,,,,
+402,Opendoor,Real Estate,2023-04-18,OPEN,OPEN,True,True
+403,Viasat,Other,2023-04-12,,,,
+404,Science 37,Healthcare,2023-04-12,Not Found,Not Found,,
+405,Science 37,Healthcare,2023-04-12,Not Found,Not Found,,
+406,Medtronic,Healthcare,2023-04-12,MDT,MDT,False,True
+407,Redfin,Real Estate,2023-04-11,RDFN,RDFN,True,True
+408,Acxiom,Marketing,2023-04-11,Not Found,Not Found,,
+409,Pear Therapeutics,Healthcare,2023-04-07,,,,
+410,Absolute Software,Security,2023-04-06,TSX,TSX,,
+411,Amplitude,Data,2023-04-05,,,,
+412,View,Other,2023-04-03,,,,
+413,Apple,Retail,2023-04-03,,,,
+414,Roku,Media,2023-03-30,,,,
+415,LendingTree,Finance,2023-03-30,Not Found,Not Found,,
+416,Spotify,Media,2023-03-30,Not Found,Not Found,,
+417,Kyndryl,Infrastructure,2023-03-30,KD,KD,True,True
+418,Electronic Arts,Consumer,2023-03-29,EA,EA,True,True
+419,Seagate,Hardware,2023-03-29,,,,
+420,iCAD,Healthcare,2023-03-29,,,,
+421,Shift,Transportation,2023-03-29,,,,
+422,Lucid Motors,Transportation,2023-03-28,LCID,LCID,,
+423,AEye,Transportation,2023-03-28,,,,
+424,Better Therapeutics,Healthcare,2023-03-27,Not Found,Not Found,,
+425,Cimpress,Retail,2023-03-23,CMPR,CMPR,True,True
+426,Logitech,Hardware,2023-03-22,LOGN,LOGN,,
+427,Wejo,Transportation,2023-03-22,WEJOQ,WEJOQ,,
+428,Marvell,Hardware,2023-03-21,,,,
+429,Expedia,Travel,2023-03-21,,,,
+430,Laybuy,Finance,2023-03-21,,,,
+431,Amazon,Retail,2023-03-20,,,,
+432,Freshworks,Support,2023-03-16,FRSH,FRSH,False,False
+433,Coherent,Manufacturing,2023-03-16,,,,
+434,Leafly,Retail,2023-03-16,LFLY,LFLY,,
+435,Boxed,Retail,2023-03-15,,,,
+436,Nubank,Finance,2023-03-15,NU,NU,False,False
+437,Meta,Consumer,2023-03-14,,,,
+438,Samsung,Hardware,2023-03-14,Not Found,Not Found,,
+439,GoTo Group,Transportation,2023-03-10,Not Found,Not Found,,
+440,Xero,Finance,2023-03-09,,,,
+441,Neoleukin Therapeutics,Healthcare,2023-03-09,,,,
+442,Take-Two Interactive,Consumer,2023-03-07,TTWO,TTWO,False,True
+443,Atlassian,Other,2023-03-06,TEAM,TEAM,False,False
+444,SiriusXM,Media,2023-03-06,SIRI,SIRI,False,False
+445,Embark Trucks,Transportation,2023-03-03,,,,
+446,Airbnb,Travel,2023-03-03,ABNB,ABNB,True,False
+447,Accolade,Healthcare,2023-03-03,,,,
+448,Zscaler,Security,2023-03-02,ZS,ZS,False,False
+449,Thoughtworks,Other,2023-03-01,Not Found,Not Found,,
+450,Sonder,Travel,2023-03-01,,,,
+451,Electronic Arts,Consumer,2023-02-28,EA,EA,True,True
+452,Eventbrite,Consumer,2023-02-28,Not Found,Not Found,,
+453,MeridianLink,Finance,2023-02-28,,,,
+454,Sono Motors,Transportation,2023-02-27,SEV,SEV,,
+455,Palantir,Data,2023-02-27,,,,
+456,Twitter,Consumer,2023-02-25,Not Found,Not Found,,
+457,Ericsson,Other,2023-02-24,ERIC,ERIC,False,False
+458,Lucira Health,Healthcare,2023-02-24,,,,
+459,EQRx,Healthcare,2023-02-24,Not Found,Not Found,,
+460,EVgo,Transportation,2023-02-23,EVGO,EVGO,False,True
+461,TaskUs,Support,2023-02-22,TASK,TASK,True,True
+462,Criteo,Marketing,2023-02-21,CRTO,CRTO,True,False
+463,Zalando,Retail,2023-02-21,ZAL,ZAL,,
+464,HP,Hardware,2023-02-19,,,,
+465,Micron,Hardware,2023-02-17,,,,
+466,Tencent,Consumer,2023-02-17,Not Found,Not Found,,
+467,Digimarc,Other,2023-02-17,DMRC,DMRC,True,False
+468,DocuSign,Sales,2023-02-16,DOCU,DOCU,False,False
+469,The RealReal,Retail,2023-02-16,REAL,REAL,True,True
+470,Smartsheet,Other,2023-02-16,,,,
+471,Wix,Marketing,2023-02-15,,,,
+472,DigitalOcean,Infrastructure,2023-02-15,DOCN,DOCN,False,False
+473,Sprinklr,Support,2023-02-15,Not Found,Not Found,,
+474,Momentive,Marketing,2023-02-15,Not Found,Not Found,,
+475,Vicarious Surgical,Healthcare,2023-02-15,,,,
+476,Blackbaud,Other,2023-02-14,BLKB,BLKB,True,False
+477,Udemy,Education,2023-02-14,Not Found,Not Found,,
+478,Twilio,Other,2023-02-13,Not Found,Not Found,,
+479,Titan Medical,Healthcare,2023-02-10,,,,
+480,Rigetti Computing,Hardware,2023-02-10,RGTI,RGTI,False,True
+481,Deliveroo,Food,2023-02-09,ROO,ROO,,
+482,Oportun,Finance,2023-02-09,,,,
+483,GitLab,Product,2023-02-09,,,,
+484,Bark,Retail,2023-02-09,,,,
+485,REE Automotive,Transportation,2023-02-09,REE,REE,,
+486,GoDaddy,Marketing,2023-02-08,Not Found,Not Found,,
+487,Affirm,Finance,2023-02-08,,,,
+488,Zoom,Other,2023-02-07,,,,
+489,eBay,Retail,2023-02-07,EBAY,EBAY,True,True
+490,SecureWorks,Security,2023-02-07,,,,
+491,Openpay,Finance,2023-02-07,OPY.AX,OPY.AX,,
+492,Dell,Hardware,2023-02-06,Not Found,Not Found,,
+493,Okta,Security,2023-02-02,,,,
+494,Autodesk,Other,2023-02-02,ADSK,ADSK,False,False
+495,NCC Group,Security,2023-02-02,NCC,NCC,,
+496,Desktop Metal,Other,2023-02-02,DM,DM,True,True
+497,Getaround,Transportation,2023-02-02,GETR,GETR,,
+498,NCSoft,Consumer,2023-02-02,Not Found,Not Found,,
+499,Splunk,Data,2023-02-01,Not Found,Not Found,,
+500,Pinterest,Consumer,2023-02-01,Not Found,Not Found,,
+501,DraftKings,Consumer,2023-02-01,DKNG,DKNG,False,True
+502,Cyren,Security,2023-02-01,,,,
+503,VerticalScope,Media,2023-02-01,Not Found,Not Found,,
+504,Appgate,Security,2023-02-01,Not Found,Not Found,,
+505,Frequency Therapeutics,Healthcare,2023-02-01,,,,
+506,MariaDB,Data,2023-02-01,,,,
+507,Match Group,Consumer,2023-02-01,MTCH,MTCH,,
+508,Rivian,Transportation,2023-02-01,RIVN,RIVN,,
+509,PayPal,Finance,2023-01-31,PYPL,PYPL,False,False
+510,NetApp,Data,2023-01-31,NTAP,NTAP,True,True
+511,Workday,HR,2023-01-31,,,,
+512,HubSpot,Marketing,2023-01-31,HUBS,HUBS,False,False
+513,Upstart,Finance,2023-01-31,,,,
+514,Software AG,Data,2023-01-31,Not Found,Not Found,,
+515,Wish,Retail,2023-01-31,,,,
+516,Nubank,Finance,2023-01-31,NU,NU,False,False
+517,National Instruments,Hardware,2023-01-31,Not Found,Not Found,,
+518,OpenText,Data,2023-01-31,TSX,TSX,,
+519,Philips,Healthcare,2023-01-30,PHIA,PHIA,,
+520,Arrival,Transportation,2023-01-30,,,,
+521,Groupon,Retail,2023-01-30,,,,
+522,Intel,Hardware,2023-01-30,INTC,INTC,True,False
+523,Delivery Hero,Food,2023-01-30,DHER,DHER,,
+524,BM Technologies,Finance,2023-01-30,,,,
+525,Quantum SI,Healthcare,2023-01-30,,,,
+526,SoFi,Finance,2023-01-30,SOFI,SOFI,False,False
+527,Synopsys,Other,2023-01-27,SNPS,SNPS,True,False
+528,SAP,Other,2023-01-26,SAP,SAP,False,False
+529,Confluent,Data,2023-01-26,CFLT,CFLT,False,False
+530,Mode Global,Finance,2023-01-26,,,,
+531,IBM,Hardware,2023-01-25,IBM,IBM,True,True
+532,Lam Research,Hardware,2023-01-25,LRCX,LRCX,False,True
+533,Guardant Health,Healthcare,2023-01-25,GH,GH,False,False
+534,PagSeguro,Finance,2023-01-25,PAGS,PAGS,True,False
+535,Vacasa,Travel,2023-01-24,VCSA,VCSA,True,False
+536,PagerDuty,Product,2023-01-24,PD,PD,False,False
+537,Spotify,Media,2023-01-23,Not Found,Not Found,,
+538,Innovid,Marketing,2023-01-23,CTV,CTV,True,False
+539,Yext,Marketing,2023-01-23,Not Found,Not Found,,
+540,Google,Consumer,2023-01-20,GOOG,GOOG,True,False
+541,Wayfair,Retail,2023-01-20,W,W,True,True
+542,Capital One,Finance,2023-01-19,COF,COF,,
+543,Proterra,Transportation,2023-01-19,,,,
+544,WeWork ,Real Estate,2023-01-19,Not Found,,,
+545,CS Disco,Legal,2023-01-19,,,,
+546,Magnite,Marketing,2023-01-19,,,,
+547,Personalis,Healthcare,2023-01-19,,,,
+548,Wallbox,Energy,2023-01-19,WBX,WBX,False,
+549,Microsoft,Other,2023-01-18,MSFT,MSFT,True,False
+550,Teladoc Health,Healthcare,2023-01-18,TDOC,TDOC,False,False
+551,Vroom,Transportation,2023-01-18,,,,
+552,8x8,Support,2023-01-18,Not Found,Not Found,,
+553,Pagaya,Finance,2023-01-18,,,,
+554,Inspirato,Travel,2023-01-18,,,,
+555,nCino,Finance,2023-01-18,NCNO,NCNO,False,False
+556,Starry,Other,2023-01-18,,,,
+557,Bally's Interactive,Consumer,2023-01-18,BALY,BALY,True,False
+558,Cazoo,Transportation,2023-01-18,Not Found,Not Found,,
+559,Lucid Diagnostics,Healthcare,2023-01-18,,,,
+560,Redbubble,Retail,2023-01-18,Not Found,Not Found,,
+561,Lightspeed Commerce,Retail,2023-01-17,TSX,TSX,,
+562,Unity,Other,2023-01-17,,,,
+563,RingCentral,Other,2023-01-17,RNG,RNG,False,False
+564,Avaya,Other,2023-01-17,Not Found,Not Found,,
+565,LiveVox,Support,2023-01-17,NICE,NICE,False,False
+566,Oracle,Other,2023-01-17,,,,
+567,XP,Finance,2023-01-17,,,,
+568,PagBank,Finance,2023-01-16,PAGS,PAGS,True,False
+569,Carvana,Transportation,2023-01-13,CVNA,CVNA,True,True
+570,Lending Club,Finance,2023-01-12,LC,LC,True,True
+571,Definitive Healthcare,Healthcare,2023-01-12,,,,
+572,Akili Labs,Healthcare,2023-01-12,,,,
+573,Life360,Consumer,2023-01-12,Not Found,Not Found,,
+574,Qualtrics,Other,2023-01-11,Not Found,Not Found,,
+575,HashiCorp,Security,2023-01-11,Not Found,Not Found,,
+576,Coinbase,Crypto,2023-01-10,COIN,COIN,True,True
+577,Informatica,Data,2023-01-10,INFA,INFA,True,False
+578,Blend,Finance,2023-01-10,,,,
+579,Thinkific,Education,2023-01-10,,,,
+580,Fate Therapeutics,Healthcare,2023-01-09,,,,
+581,Century Therapeutics,Healthcare,2023-01-09,Not Found,Not Found,,
+582,Editas Medicine,Healthcare,2023-01-09,EDIT,EDIT,True,True
+583,WalkMe,Other,2023-01-08,,,,
+584,Cue,Healthcare,2023-01-05,,,,
+585,SoundHound,Other,2023-01-05,SOUN,SOUN,True,False
+586,Twitter,Consumer,2023-01-05,Not Found,Not Found,,
+587,Compass,Real Estate,2023-01-05,,,,
+588,Megaport,Infrastructure,2023-01-05,,,,
+589,Stitch Fix,Retail,2023-01-05,SFIX,SFIX,True,True
+590,TCR2,Healthcare,2023-01-05,,,,
+591,Amazon,Retail,2023-01-04,,,,
+592,Salesforce,Sales,2023-01-04,CRM,CRM,False,True
+593,Kaltura,Media,2023-01-04,KLTR,KLTR,True,True
+594,Butterfly Network,Healthcare,2023-01-04,,,,
+595,Vimeo,Consumer,2023-01-04,VMEO,VMEO,True,True
+596,Pegasystems,HR,2023-01-03,PEGA,PEGA,True,True
+597,Amdocs,Support,2023-01-02,DOX,DOX,False,False
+598,Micron,Hardware,2023-01-01,,,,
+599,Bilibili,Media,2022-12-27,Not Found,Not Found,,
+600,Qualcomm,Hardware,2022-12-22,QCOM,QCOM,,
+601,TuSimple,Transportation,2022-12-21,TSPH,TSPH,,
+602,Xiaomi,Consumer,2022-12-19,Not Found,Not Found,,
+603, E Inc.,Transportation,2022-12-16,Not Found,,,
+604,BigCommerce,Retail,2022-12-15,BIGC,BIGC,False,True
+605,Freshworks,Support,2022-12-15,FRSH,FRSH,False,False
+606,JD.ID,Retail,2022-12-14,JD,JD,True,True
+607,Quanergy Systems,Transportation,2022-12-14,,,,
+608,Edgio,Infrastructure,2022-12-13,Not Found,Not Found,,
+609,Viant,Marketing,2022-12-13,Not Found,Not Found,,
+610,Playtika,Consumer,2022-12-09,PLTK,PLTK,True,True
+611,N-able Technologies,Other,2022-12-09,SWI,SWI,,
+612,Otonomo,Transportation,2022-12-08,Not Found,Not Found,,
+613,TechTarget,Marketing,2022-12-08,TTGT,TTGT,,False
+614,Bakkt,Crypto,2022-12-08,BKKT,BKKT,True,True
+615,Blue Apron,Food,2022-12-08,Not Found,Not Found,,
+616,Lenovo,Hardware,2022-12-08,Not Found,Not Found,,
+617,Nerdy,Education,2022-12-08,,,,
+618,Doma,Finance,2022-12-06,,,,
+619,Intel,Hardware,2022-12-06,INTC,INTC,True,True
+620,BuzzFeed,Media,2022-12-06,BZFD,BZFD,,
+621,Adobe,Marketing,2022-12-06,,,,
+622,Zuora,Finance,2022-12-06,Not Found,Not Found,,
+623,Thinkific,Education,2022-12-05,,,,
+624,Springbig,Sales,2022-12-01,,,,
+625,SQZ Biotech,Healthcare,2022-12-01,,,,
+626,Synlogic,Healthcare,2022-12-01,Not Found,Not Found,,
+627,DoorDash,Food,2022-11-30,DASH,DASH,False,False
+628,Elastic,Data,2022-11-30,,,,
+629,Pinterest,Consumer,2022-11-30,Not Found,Not Found,,
+630,Codexis,Healthcare,2022-11-29,CDXS,CDXS,True,True
+631,SWVL,Transportation,2022-11-23,SWVL,SWVL,,
+632,Western Digital,Hardware,2022-11-22,WDC,WDC,True,True
+633,Natera,Healthcare,2022-11-22,NTRA,NTRA,False,False
+634,Jumia,Retail,2022-11-21,JMIA,JMIA,,
+635,Carvana,Transportation,2022-11-18,CVNA,CVNA,True,True
+636,Roku,Media,2022-11-17,,,,
+637,Homepoint,Real Estate,2022-11-17,,,,
+638,Amazon,Retail,2022-11-16,,,,
+639,Cisco,Infrastructure,2022-11-16,CSCO,CSCO,False,False
+640,Similarweb,Other,2022-11-16,Not Found,Not Found,,
+641,Pear Therapeutics,Healthcare,2022-11-16,,,,
+642,D2L,Education,2022-11-16,DTOL,DTOL,,
+643,UiPath,Data,2022-11-15,PATH,PATH,True,True
+644,Asana,Other,2022-11-15,,,,
+645,Deliveroo Australia,Food,2022-11-15,ROO,ROO,,
+646,Oatly,Food,2022-11-15,OTLY,OTLY,False,False
+647,Rubicon Technologies,Other,2022-11-15,,,,
+648,Tencent,Consumer,2022-11-15,Not Found,Not Found,,
+649,Whispir,Other,2022-11-15,,,,
+650,Illumina,Healthcare,2022-11-14,,,,
+651,Sema4,Healthcare,2022-11-14,,,,
+652,Science 37 ,Healthcare,2022-11-14,Not Found,,,
+653,Pear Therapeutics,Healthcare,2022-11-14,,,,
+654,Cardlytics,Marketing,2022-11-14,,,,
+655,Tricida,Healthcare,2022-11-14,,,,
+656,Offerpad,Real Estate,2022-11-11,,,,
+657,GoTo Group,Transportation,2022-11-10,Not Found,Not Found,,
+658,Blend,Finance,2022-11-10,,,,
+659,Coinbase,Crypto,2022-11-10,COIN,COIN,True,True
+660,SoundHound,Other,2022-11-10,SOUN,SOUN,False,True
+661,Meta,Consumer,2022-11-09,,,,
+662,Redfin,Real Estate,2022-11-09,RDFN,RDFN,True,True
+663,Root Insurance,Finance,2022-11-09,ROOT,ROOT,True,True
+664,Coursera,Education,2022-11-09,,,,
+665,RingCentral,Other,2022-11-09,RNG,RNG,False,False
+666,Spotify,Media,2022-11-09,Not Found,Not Found,,
+667,EverBridge,Other,2022-11-08,Not Found,Not Found,,
+668,Astra,Aerospace,2022-11-08,,,,
+669,NanoString,Healthcare,2022-11-08,NSTGQ,NSTGQ,,
+670,Salesforce,Sales,2022-11-07,CRM,CRM,False,True
+671,Varonis,Security,2022-11-06,VRNS,VRNS,False,True
+672,Twitter,Consumer,2022-11-04,Not Found,Not Found,,
+673,Lyft,Transportation,2022-11-03,LYFT,LYFT,False,True
+674,LendingTree,Finance,2022-11-03,Not Found,Not Found,,
+675,Delivery Hero,Food,2022-11-03,DHER,DHER,,
+676,Affirm,Finance,2022-11-03,,,,
+677,LiveRamp,Marketing,2022-11-03,RAMP,RAMP,,
+678,Rubius,Healthcare,2022-11-03,,,,
+679,Opendoor,Real Estate,2022-11-02,OPEN,OPEN,True,True
+680,Oracle,Other,2022-11-01,,,,
+681,Upstart,Finance,2022-11-01,,,,
+682,Amazon,Retail,2022-10-28,,,,
+683,Seagate,Hardware,2022-10-26,,,,
+684,MindBody,Fitness,2022-10-26,,,,
+685,Zillow,Real Estate,2022-10-26,Z,Z,,
+686,Philips,Healthcare,2022-10-24,PHIA,PHIA,,
+687,F5,Security,2022-10-21,,,,
+688,Volta,Transportation,2022-10-21,,,,
+689,Arrival,Transportation,2022-10-20,,,,
+690,Starry,Other,2022-10-20,,,,
+691,Leafly,Retail,2022-10-18,LFLY,LFLY,,
+692,Microsoft,Other,2022-10-17,MSFT,MSFT,True,False
+693,Beyond Meat,Food,2022-10-14,BYND,BYND,True,False
+694,Beyond Meat,Food,2022-10-14,BYND,BYND,True,False
+695,Salesforce,Sales,2022-10-13,CRM,CRM,False,True
+696,Sinch,Other,2022-10-12,,,,
+697,HelloFresh,Food,2022-10-10,HFG,HFG,,
+698,Momentive,Marketing,2022-10-10,Not Found,Not Found,,
+699,BioMarin,Healthcare,2022-10-07,BMRN,BMRN,True,True
+700,Peloton,Fitness,2022-10-06,,,,
+701,Spotify,Media,2022-10-06,Not Found,Not Found,,
+702,8x8,Support,2022-10-04,Not Found,Not Found,,
+703,Westwing,Retail,2022-09-29,,,,
+704,DocuSign,Sales,2022-09-28,DOCU,DOCU,False,False
+705,Volta,Transportation,2022-09-28,,,,
+706,Compass,Real Estate,2022-09-20,,,,
+707,Ouster,Transportation,2022-09-20,,,,
+708,LivePerson,Support,2022-09-15,TASE,TASE,,
+709,Acast,Media,2022-09-15,ACAST,ACAST,,
+710,Twilio,Other,2022-09-14,Not Found,Not Found,,
+711,Netflix,Media,2022-09-14,,,,
+712,Rubius,Healthcare,2022-09-13,,,,
+713,Taboola,Marketing,2022-09-13,TBLA,TBLA,True,True
+714,Rent the Runway,Retail,2022-09-12,Not Found,Not Found,,
+715,BigBear.ai,Data,2022-09-08,,,,
+716,Uber,Transportation,2022-09-07,UBER,UBER,False,False
+717,Sea,Consumer,2022-09-02,,,,
+718,Shopify,Retail,2022-09-01,SHOP,SHOP,True,True
+719,Snap,Consumer,2022-08-31,,,,
+720,GoodRx,Healthcare,2022-08-31,GDRX,GDRX,True,True
+721,Hippo Insurance,Finance,2022-08-31,HIPO,HIPO,True,False
+722,TCR2,Healthcare,2022-08-31,,,,
+723,Skillz,Consumer,2022-08-29,,,,
+724,Otonomo,Transportation,2022-08-28,Not Found,Not Found,,
+725,Okta,Security,2022-08-26,,,,
+726,Kogan,Retail,2022-08-23,,,,
+727,Wayfair,Retail,2022-08-19,W,W,True,True
+728,New Relic,Infrastructure,2022-08-18,Not Found,Not Found,,
+729,Sema4,Healthcare,2022-08-15,,,,
+730,Blend,Finance,2022-08-15,,,,
+731,ContraFect,Healthcare,2022-08-15,,,,
+732,ThredUp,Retail,2022-08-15,TDUP,TDUP,,
+733,Peloton,Fitness,2022-08-12,,,,
+734,Core Scientific,Crypto,2022-08-12,Not Found,Not Found,,
+735,Guidewire,Finance,2022-08-11,,,,
+736,GoHealth,Healthcare,2022-08-09,GOCO,GOCO,True,True
+737,Nutanix,Infrastructure,2022-08-09,NTNX,NTNX,True,True
+738,Quanterix,Healthcare,2022-08-09,BIM,BIM,,
+739,Wix,Marketing,2022-08-09,,,,
+740,Absci,Healthcare,2022-08-09,Not Found,Not Found,,
+741,Berkeley Lights,Healthcare,2022-08-09,,,,
+742,Kaltura,Media,2022-08-09,KLTR,KLTR,True,True
+743,Shift,Transportation,2022-08-09,,,,
+744,Sweetgreen,Food,2022-08-09,SG,SG,False,True
+745,Groupon,Retail,2022-08-08,,,,
+746,Vroom,Transportation,2022-08-08,,,,
+747,Warby Parker,Consumer,2022-08-08,WRBY,WRBY,True,True
+748,Perion,Marketing,2022-08-08,,,,
+749,Doma,Finance,2022-08-04,,,,
+750,10X Genomics,Healthcare,2022-08-04,TXG,TXG,True,True
+751,RingCentral,Support,2022-08-04,RNG,RNG,False,False
+752,Beyond Meat,Food,2022-08-03,BYND,BYND,False,True
+753,Robinhood,Finance,2022-08-02,,,,
+754,Latch,Security,2022-08-02,,,,
+755,Butterfly Network,Healthcare,2022-08-02,,,,
+756,FuboTV,Media,2022-08-02,FUBO,FUBO,,
+757,Oracle,Other,2022-08-01,,,,
+758,MissFresh,Food,2022-07-29,Not Found,Not Found,,
+759,Laybuy,Finance,2022-07-28,,,,
+760,Allbirds,Retail,2022-07-28,BIRD,BIRD,True,True
+761,2U,Education,2022-07-28,,,,
+762,Rivian,Transportation,2022-07-27,RIVN,RIVN,,
+763,Shopify,Retail,2022-07-26,SHOP,SHOP,True,True
+764,Fiverr,Other,2022-07-26,,,,
+765,Outbrain,Marketing,2022-07-26,OB,OB,True,True
+766,Pear Therapeutics ,Healthcare,2022-07-25,,,,
+767,Owlet,Healthcare,2022-07-22,,,,
+768,AppGate,Security,2022-07-21,,,,
+769,Just Eat Takeaway,Food,2022-07-20,AEX,AEX,,
+770,Lyft,Transportation,2022-07-20,LYFT,LYFT,True,True
+771,Invitae,Healthcare,2022-07-19,NVTAQ,NVTAQ,True,True
+772,Vimeo,Consumer,2022-07-18,VMEO,VMEO,False,True
+773,Arrival,Transportation,2022-07-13,,,,
+774,Babylon,Healthcare,2022-07-12,Not Found,Not Found,,
+775,Microsoft,Other,2022-07-12,MSFT,MSFT,True,False
+776,Twitter,Consumer,2022-07-07,Not Found,Not Found,,
+777,Shopify,Retail,2022-07-06,SHOP,SHOP,True,True
+778,Canoo,Transportation,2022-07-01,GOEVQ,GOEVQ,,
+779,Enjoy,Retail,2022-06-30,,,,
+780,Unity,Other,2022-06-29,,,,
+781,AppLovin,Marketing,2022-06-27,APP,APP,True,True
+782,UiPath,Data,2022-06-27,PATH,PATH,True,False
+783,Cue,Healthcare,2022-06-27,,,,
+784,Banxa,Crypto,2022-06-27,,,,
+785,Netflix,Media,2022-06-23,,,,
+786,IronNet,Security,2022-06-22,,,,
+787,IronNet,Security,2022-06-22,,,,
+788,Sprinklr,Support,2022-06-22,Not Found,Not Found,,
+789,TaskUs,Support,2022-06-21,TASK,TASK,False,True
+790,Coinbase,Crypto,2022-06-14,COIN,COIN,True,True
+791,Redfin,Real Estate,2022-06-14,RDFN,RDFN,True,True
+792,Compass,Real Estate,2022-06-14,,,,
+793,Desktop Metal,Other,2022-06-13,DM,DM,True,True
+794,Stitch Fix,Retail,2022-06-09,SFIX,SFIX,True,True
+795,Boozt,Retail,2022-06-09,,,,
+796,Sonder,Travel,2022-06-08,,,,
+797,Cazoo,Transportation,2022-06-07,Not Found,Not Found,,
+798,Cazoo,Transportation,2022-06-07,Not Found,Not Found,,
+799,Bird,Transportation,2022-06-07,,,,
+800,Tesla,Transportation,2022-06-03,,,,
+801,TomTom,Transportation,2022-06-01,TOM2,TOM2,,
+802,Playtika,Consumer,2022-05-31,PLTK,PLTK,False,True
+803,SWVL,Transportation,2022-05-30,SWVL,SWVL,,
+804,VTEX,Retail,2022-05-26,,,,
+805,PayPal,Finance,2022-05-23,PYPL,PYPL,True,False
+806,Latch,Security,2022-05-20,,,,
+807,Skillz,Consumer,2022-05-20,,,,
+808,Netflix,Media,2022-05-17,,,,
+809,Carvana,Transportation,2022-05-10,CVNA,CVNA,True,True
+810,Doma,Finance,2022-05-10,,,,
+811,Latch,Security,2022-05-10,,,,
+812,Vroom,Transportation,2022-05-09,,,,
+813,Netflix,Media,2022-04-28,,,,
+814,Robinhood,Finance,2022-04-26,,,,
+815,Lemonade,Finance,2022-04-20,,,,
+816,Blend,Finance,2022-04-19,,,,
+817,Goodfood,Food,2022-04-07,FOOD,FOOD,,
+818,Legible,Media,2022-04-04,,,,
+819,Sea,Retail,2022-03-30,,,,
+820,Thinkific,Education,2022-03-29,,,,
+821,Storytel,Media,2022-03-17,Not Found,Not Found,,
+822,Talis Biomedical,Healthcare,2022-03-15,,,,
+823,Sezzle,Finance,2022-03-10,Not Found,Not Found,,
+824,Adaptive Biotechnologies,Healthcare,2022-03-08,,,,
+825,Wish,Retail,2022-03-01,,,,
+826,Peloton,Fitness,2022-02-08,,,,
+827,Root Insurance,Finance,2022-01-20,ROOT,ROOT,True,True

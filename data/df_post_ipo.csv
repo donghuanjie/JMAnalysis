@@ -1,0 +1,828 @@
+Company,Industry,Layoff Date,Ticker
+HP,Hardware,2025-02-28,
+Autodesk,Other,2025-02-27,ADSK
+Google,Consumer,2025-02-27,GOOG
+eBay,Retail,2025-02-26,EBAY
+Dayforce,HR,2025-02-26,DAY
+Expedia,Travel,2025-02-26,
+Ibotta,Retail,2025-02-22,IBTA
+NetEase,Consumer,2025-02-22,NTES
+Riskified,Retail,2025-02-19,RSKD
+Redfin,Real Estate,2025-02-12,RDFN
+Unity,Other,2025-02-11,
+Meta,Consumer,2025-02-10,
+Wise,Finance,2025-02-10,
+Sprinklr,Support,2025-02-06,Not Found
+Workday,HR,2025-02-05,
+Outbrain,Marketing,2025-02-05,OB
+Sonos,Consumer,2025-02-05,SONO
+Okta,Security,2025-02-04,
+Asana,Other,2025-02-04,
+TripAdvisor,Travel,2025-02-04,Not Found
+Intel,Hardware,2025-02-04,INTC
+Salesforce,Sales,2025-02-03,CRM
+Amazon,Retail,2025-01-29,
+Microsoft,Other,2025-01-14,MSFT
+Boozt,Retail,2025-01-13,
+Wayfair,Retail,2025-01-10,W
+Zillow,Real Estate,2025-01-10,Z
+Redfin,Real Estate,2025-01-09,RDFN
+Microsoft,Other,2025-01-07,MSFT
+SolarEdge,Energy,2025-01-06,SEDG
+Lilium,Aerospace,2024-12-23,
+Cint,Data,2024-12-12,
+Canoo,Transportation,2024-12-11,GOEVQ
+Booking Holdings,Travel,2024-12-04,BKNG
+2U,Education,2024-12-04,
+Lightspeed Commerce,Retail,2024-12-02,TSX
+SolarEdge,Energy,2024-11-27,SEDG
+Sprout Social,Marketing,2024-11-25,SPT
+Ola Electric,Transportation,2024-11-22,OLAELEC
+AMD,Hardware,2024-11-13,AMD
+AppLovin,Marketing,2024-11-13,APP
+Chegg,Education,2024-11-12,Not Found
+Enphase Energy,Energy,2024-11-11,ENPH
+23andMe,Healthcare,2024-11-11,ME
+BigCommerce,Retail,2024-11-08,BIGC
+Freshworks,Support,2024-11-07,FRSH
+Opendoor,Real Estate,2024-11-07,OPEN
+Akamai,Security,2024-11-07,AKAM
+iRobot,Consumer,2024-11-06,IRBT
+Avaya,Other,2024-11-06,Not Found
+Dropbox,Other,2024-10-30,DBX
+F5,Security,2024-10-29,
+Coursera,Education,2024-10-25,
+Upwork,Other,2024-10-23,Not Found
+Meta,Consumer,2024-10-16,
+Nikola,Transportation,2024-10-11,
+PubMatic,Marketing,2024-10-07,PUBM
+Zapata Computing,Other,2024-10-07,
+F5,Security,2024-09-24,
+Olo,Food,2024-09-23,
+Luminar,Transportation,2024-09-20,
+IBM,Hardware,2024-09-18,IBM
+Microsoft,Other,2024-09-12,MSFT
+Udemy,Education,2024-09-11,Not Found
+Mobileye,Transportation,2024-09-09,MBLY
+Lyft,Transportation,2024-09-04,LYFT
+Apple,Hardware,2024-08-27,
+IBM,Hardware,2024-08-26,IBM
+Velo3D,Manufacturing,2024-08-26,
+Redfin,Real Estate,2024-08-22,RDFN
+Five9,Support,2024-08-20,
+GoPro,Consumer,2024-08-19,GPRO
+AppLovin,Marketing,2024-08-15,APP
+Mister Spex,Retail,2024-08-15,Not Found
+Sonos,Consumer,2024-08-14,SONO
+Grail,Healthcare,2024-08-13,
+Cisco,Infrastructure,2024-08-09,CSCO
+Fastly,Infrastructure,2024-08-08,FSLY
+Eventbrite,Consumer,2024-08-07,Not Found
+LegalZoom,Legal,2024-08-07,LZ
+Teradata,Data,2024-08-06,TDC
+Infineon,Manufacturing,2024-08-05,IFX
+Dell,Hardware,2024-08-05,Not Found
+Intel,Hardware,2024-08-01,INTC
+Avaya,Other,2024-08-01,Not Found
+Delivery Hero,Food,2024-07-31,DHER
+Match Group,Consumer,2024-07-31,MTCH
+NerdWallet,Finance,2024-07-30,Not Found
+SolarEdge,Energy,2024-07-15,SEDG
+Salesforce,Sales,2024-07-15,CRM
+Spotify,Media,2024-07-15,Not Found
+Intuit,Finance,2024-07-10,INTU
+UIPath,Other,2024-07-09,PATH
+OpenText,Data,2024-07-03,TSX
+Microsoft,Other,2024-07-03,MSFT
+Cint,Data,2024-07-01,
+Planet,Aerospace,2024-06-26,
+eBay,Retail,2024-06-26,EBAY
+Perion,Marketing,2024-06-25,
+Ginkgo Bioworks,Healthcare,2024-06-24,DNA
+Ginkgo Bioworks,Healthcare,2024-06-20,DNA
+Wex,Finance,2024-06-18,
+PayPal,Finance,2024-06-18,PYPL
+Fisker,Transportation,2024-06-18,
+Chegg,Education,2024-06-17,Not Found
+Satellogic,Aerospace,2024-06-14,SATL
+Medtronic,Healthcare,2024-06-13,MDT
+Pagaya,Finance,2024-06-05,
+Yext,Marketing,2024-06-05,Not Found
+Microsoft,Other,2024-06-03,MSFT
+Google,Consumer,2024-05-31,GOOG
+Fisker,Transportation,2024-05-29,
+Funding Circle,Finance,2024-05-29,FCH
+Lucid Motors,Transportation,2024-05-24,LCID
+Satellogic,Aerospace,2024-05-24,SATL
+Cue Health,Healthcare,2024-05-22,
+Rivian,Transportation,2024-05-10,RIVN
+Google,Consumer,2024-05-10,GOOG
+Vacasa,Travel,2024-05-09,VCSA
+Kinaxis,Other,2024-05-08,TSX
+Enovix,Energy,2024-05-06,
+Cue Health,Healthcare,2024-05-03,
+Rivian,Transportation,2024-05-03,RIVN
+Luminar,Transportation,2024-05-03,
+Sprinklr,Support,2024-05-03,Not Found
+Bakkt,Crypto,2024-05-03,BKKT
+Peloton,Fitness,2024-05-02,
+Google,Consumer,2024-05-01,GOOG
+Tesla,Transportation,2024-04-30,
+Akili Interactive,Healthcare,2024-04-30,
+Google,Consumer,2024-04-30,GOOG
+Fisker,Transportation,2024-04-29,
+Expedia,Travel,2024-04-24,
+Google,Consumer,2024-04-17,GOOG
+Rivian,Transportation,2024-04-17,RIVN
+Take-Two,Consumer,2024-04-16,TTWO
+Tesla,Transportation,2024-04-15,
+Criteo,Marketing,2024-04-12,CRTO
+Intel,Hardware,2024-04-09,INTC
+Apple,Hardware,2024-04-04,
+Lightspeed Commerce,Retail,2024-04-03,TSX
+Amazon,Retail,2024-04-03,
+GoPro,Consumer,2024-03-26,GPRO
+Dell,Hardware,2024-03-25,Not Found
+Singular Genomics,Healthcare,2024-03-19,
+Ancestry,Consumer,2024-03-14,
+IBM,Hardware,2024-03-12,IBM
+Meta,Consumer,2024-03-06,
+Edgio,Infrastructure,2024-03-04,Not Found
+Fisker,Transportation,2024-02-29,
+Electronic Arts,Consumer,2024-02-28,EA
+Vacasa,Travel,2024-02-28,VCSA
+Bumble,Consumer,2024-02-27,BMBL
+PropertyGuru,Real Estate,2024-02-27,
+Apple,Transportation,2024-02-27,
+Expedia,Travel,2024-02-26,
+Affirm,Finance,2024-02-21,
+BuzzFeed,Media,2024-02-21,BZFD
+Rivian,Transportation,2024-02-21,RIVN
+Aptiv,Transportation,2024-02-20,APTV
+Toast,Food,2024-02-15,
+Sonder,Travel,2024-02-15,
+Storytel,Consumer,2024-02-15,Not Found
+Cisco,Infrastructure,2024-02-14,CSCO
+Instacart,Food,2024-02-13,CART
+Impinj,Other,2024-02-13,PI
+Riskified,Retail,2024-02-13,RSKD
+SiriusXM,Media,2024-02-12,SIRI
+Pure Storage,Data,2024-02-08,PSTG
+Otovo,Energy,2024-02-08,
+Getaround,Transportation,2024-02-08,GETR
+Tenable,Security,2024-02-07,
+DocuSign,Sales,2024-02-06,DOCU
+Amazon,Retail,2024-02-06,
+Snap,Consumer,2024-02-05,
+Cue Health,Healthcare,2024-02-02,
+Okta,Security,2024-02-01,
+Zoom,Other,2024-02-01,
+Illumina,Healthcare,2024-02-01,
+Innoviz,Transportation,2024-01-31,Not Found
+Zuora,Finance,2024-01-31,Not Found
+PayPal,Finance,2024-01-30,PYPL
+Block,Finance,2024-01-30,
+Procore,Construction,2024-01-30,PCOR
+iRobot,Consumer,2024-01-29,IRBT
+Salesforce,Sales,2024-01-26,CRM
+Microsoft,Other,2024-01-25,MSFT
+Jamf,Other,2024-01-25,JAMF
+Storytel,Media,2024-01-24,Not Found
+Aurora,Transportation,2024-01-24,
+Desktop Metal,Other,2024-01-24,DM
+HubSpot,Marketing,2024-01-24,HUBS
+SAP,Other,2024-01-23,SAP
+eBay,Retail,2024-01-23,EBAY
+Vroom,Transportation,2024-01-23,
+2U,Education,2024-01-22,
+Google,Consumer,2024-01-22,GOOG
+SolarEdge,Energy,2024-01-21,SEDG
+Wayfair,Retail,2024-01-19,W
+Amazon,Retail,2024-01-18,
+Stitch Fix,Retail,2024-01-18,SFIX
+Google,Consumer,2024-01-16,GOOG
+New Work SE,Consumer,2024-01-11,Not Found
+Playtika,Consumer,2024-01-11,PLTK
+Cloudflare,Security,2024-01-11,NET
+888,Consumer,2024-01-11,
+Google,Consumer,2024-01-10,GOOG
+IAC,Consumer,2024-01-10,
+Amazon,Retail,2024-01-10,
+SoFi,Finance,2024-01-10,SOFI
+Nevro,Healthcare,2024-01-09,Not Found
+Rent the Runway,Retail,2024-01-09,Not Found
+EVBox,Energy,2024-01-09,Not Found
+Unity,Other,2024-01-08,
+NuScale Power,Energy,2024-01-08,SMR
+MeridianLink,Finance,2024-01-08,
+NanoString Technologies,Healthcare,2024-01-06,NSTGQ
+Cue Health,Healthcare,2024-01-05,
+Xerox,Hardware,2024-01-03,XRX
+Ocado,Food,2023-12-31,OCDO
+Intel,Hardware,2023-12-21,INTC
+Kaspien,Retail,2023-12-19,KSPN
+Enphase Energy,Energy,2023-12-18,ENPH
+Arm Holdings,Hardware,2023-12-18,ARM
+Delivery Hero,Food,2023-12-18,DHER
+eBay,Retail,2023-12-17,EBAY
+Invitae,Healthcare,2023-12-13,NVTAQ
+Etsy,Retail,2023-12-13,ETSY
+Analog Devices,Manufacturing,2023-12-13,ADI
+TomTom,Transportation,2023-12-12,TOM2
+SmileDirectClub,Healthcare,2023-12-09,SDCCQ
+Rivian,Transportation,2023-12-07,RIVN
+Bill.com,Finance,2023-12-05,BILL
+Spotify,Media,2023-12-04,Not Found
+TuSimple,Transportation,2023-12-04,TSPH
+Twilio,Other,2023-12-04,Not Found
+Domo,Data,2023-11-30,
+Unity,Other,2023-11-28,
+Presto,Food,2023-11-20,
+Amazon,Retail,2023-11-17,
+Sonos,Consumer,2023-11-16,SONO
+Singular Genomics,Healthcare,2023-11-15,
+Chewy,Retail,2023-11-14,
+Sarcos,Aerospace,2023-11-14,Not Found
+Markforged,Manufacturing,2023-11-14,MKFG
+Amazon,Retail,2023-11-13,
+TripAdvisor,Travel,2023-11-12,Not Found
+Snap,Consumer,2023-11-08,
+Amazon,Retail,2023-11-08,
+BigCommerce,Retail,2023-11-08,BIGC
+Google,Consumer,2023-11-08,GOOG
+Oportun,Finance,2023-11-07,
+Zillow,Real Estate,2023-11-07,Z
+Nextdoor,Consumer,2023-11-07,KIND
+F5,Security,2023-11-03,
+NIO,Transportation,2023-11-03,
+Viasat,Other,2023-11-02,
+Beyond Meat,Food,2023-11-02,BYND
+Sportradar,Data,2023-11-02,SRAD
+Informatica,Data,2023-11-01,INFA
+Splunk,Data,2023-11-01,Not Found
+Hippo Insurance,Finance,2023-10-26,HIPO
+ F-Secure ,Security,2023-10-25,FSECURE
+LegalZoom,Legal,2023-10-19,LZ
+Google,Consumer,2023-10-18,GOOG
+Expedia,Travel,2023-10-17,
+Qualcomm,Hardware,2023-10-12,QCOM
+Lending Club,Finance,2023-10-12,LC
+MariaDB,Data,2023-10-12,
+Stitch Fix,Retail,2023-10-09,SFIX
+Juniper Networks,Hardware,2023-10-06,JNPR
+Shift,Transportation,2023-10-06,
+Enovix,Energy,2023-10-05,
+Arrival,Transportation,2023-10-05,
+Bird,Transportation,2023-10-04,
+Block,Finance,2023-10-04,
+Meta,Consumer,2023-10-04,
+IronNet,Security,2023-10-02,
+Sono Motors,Transportation,2023-10-02,SEV
+2U,Education,2023-09-28,
+Snap,Consumer,2023-09-27,
+Roblox,Consumer,2023-09-22,
+Robinhood,Finance,2023-09-21,
+Cisco,Infrastructure,2023-09-17,CSCO
+Sage Therapeutics copy,Healthcare,2023-09-15,
+Google,Consumer,2023-09-13,GOOG
+Akili Labs,Healthcare,2023-09-13,
+Roku,Media,2023-09-06,
+iSpecimen,Healthcare,2023-09-06,
+Absci,Healthcare,2023-09-05,Not Found
+Pegasystems,HR,2023-08-31,PEGA
+Expedia,Travel,2023-08-31,
+Zebra Technologies,Manufacturing,2023-08-28,ZBRA
+SenseTime,AI,2023-08-28,Not Found
+Fortinet,Security,2023-08-25,FTNT
+BlackLine,Finance,2023-08-23,BL
+Tempo Automation,Other,2023-08-22,TMPO
+Illumina,Healthcare,2023-08-17,
+AppFolio,Real Estate,2023-08-17,APPF
+Intel,Hardware,2023-08-17,INTC
+SecureWorks,Security,2023-08-14,
+Shutterfly,Manufacturing,2023-08-10,Not Found
+NCC Group,Security,2023-08-10,NCC
+Blend,Finance,2023-08-09,
+Babylon Health,Healthcare,2023-08-09,BBLN
+Bukalapak,Retail,2023-08-09,BUKA
+Thoughtworks,Other,2023-08-08,Not Found
+Rapid7,Security,2023-08-08,
+Doximity,Healthcare,2023-08-08,DOCS
+23andMe,Healthcare,2023-08-08,ME
+Dell,Hardware,2023-08-07,Not Found
+Astra,Aerospace,2023-08-04,
+Salesforce,Sales,2023-08-02,CRM
+TripAdvisor,Travel,2023-08-02,Not Found
+Planet,Aerospace,2023-08-01,
+Kape Technologies,Security,2023-07-30,
+Kape,Security,2023-07-28,
+Homology,Healthcare,2023-07-28,
+Wish,Retail,2023-07-27,
+Kleos Space,Aerospace,2023-07-26,
+AppHarvest,Food,2023-07-24,APPHQ
+Phunware,Other,2023-07-20,PHUN
+Inspirato,Travel,2023-07-19,
+Blue Apron,Food,2023-07-19,Not Found
+Microsoft,Other,2023-07-18,MSFT
+Sarcos,Aerospace,2023-07-17,Not Found
+IBM,Hardware,2023-07-17,IBM
+Amazon,Retail,2023-07-13,
+AudioCodes,Other,2023-07-13,AUDC
+Tempo Automation,Other,2023-07-13,TMPO
+Peloton,Fitness,2023-07-13,
+Bark,Retail,2023-07-13,
+Stitch Fix,Retail,2023-07-12,SFIX
+DeepVerge,Healthcare,2023-07-12,
+Freightos,Logistics,2023-07-12,Not Found
+Expedia,Travel,2023-07-12,
+Matterport,Data,2023-07-11,Not Found
+Everquote,Finance,2023-07-11,EVER
+Butterfly Network copy,Healthcare,2023-07-11,
+Shift,Transportation,2023-07-11,
+Latch,Security,2023-07-10,
+Amdocs,Support,2023-07-06,DOX
+Vista Group,Data,2023-07-05,ASX
+Zip,Finance,2023-07-02,
+Selina,Travel,2023-06-27,
+New Relic,Infrastructure,2023-06-27,Not Found
+Lordstown Motors,Transportation,2023-06-27,NRDE
+Payoneer,Finance,2023-06-26,PAYO
+Robinhood,Finance,2023-06-26,
+Uber,Transportation,2023-06-21,UBER
+Illumina,Healthcare,2023-06-21,
+Grab,Transportation,2023-06-20,
+Nikola,Transportation,2023-06-16,
+Qualcomm,Hardware,2023-06-16,QCOM
+Sonos,Consumer,2023-06-14,SONO
+TrueCar,Transportation,2023-06-14,TRUE
+Olo,Food,2023-06-14,
+Western Digital,Hardware,2023-06-13,WDC
+Zalando,Retail,2023-06-13,ZAL
+Chegg,Education,2023-06-12,Not Found
+23andMe,Healthcare,2023-06-09,ME
+Freshworks,Support,2023-06-08,FRSH
+Nubank,Finance,2023-06-07,NU
+HashiCorp,Infrastructure,2023-06-07,Not Found
+Coherent,Manufacturing,2023-06-06,
+Edgio,Infrastructure,2023-06-06,Not Found
+Unity,Other,2023-06-06,
+Spotify,Media,2023-06-05,Not Found
+ZoomInfo,Sales,2023-06-02,ZI
+Outbrain,Marketing,2023-06-01,OB
+SentinelOne,Security,2023-06-01,S
+ZipRecruiter,Recruiting,2023-05-31,Not Found
+DHI Group,Recruiting,2023-05-26,
+Western Digital,Hardware,2023-05-24,WDC
+Qualcomm,Hardware,2023-05-23,QCOM
+AppFolio,Real Estate,2023-05-22,APPF
+TuSimple,Transportation,2023-05-18,TSPH
+Lemonade,Finance,2023-05-16,
+Telenav,Transportation,2023-05-12,Not Found
+CS Disco,Legal,2023-05-11,
+Microsoft,Other,2023-05-10,MSFT
+Redbubble,Retail,2023-05-10,Not Found
+Similarweb,Other,2023-05-10,Not Found
+Akamai,Security,2023-05-09,AKAM
+AudioCodes,Other,2023-05-09,AUDC
+Marqeta,Finance,2023-05-09,Not Found
+Twist Bioscience,Healthcare,2023-05-05,TWST
+Shopify,Retail,2023-05-04,SHOP
+Sabre,Travel,2023-05-04,
+Unity,Other,2023-05-03,
+Upwork,Other,2023-05-03,Not Found
+Brightcove,Marketing,2023-05-03,Not Found
+Cue Health,Healthcare,2023-04-28,
+Dropbox,Other,2023-04-27,DBX
+Alteryx,Data,2023-04-27,Not Found
+Vroom,Transportation,2023-04-27,
+Megaport,Infrastructure,2023-04-27,
+Lyft,Transportation,2023-04-21,LYFT
+BuzzFeed,Media,2023-04-20,BZFD
+Lenovo,Hardware,2023-04-20,Not Found
+F5,Security,2023-04-19,
+WalkMe,Other,2023-04-19,
+Opendoor,Real Estate,2023-04-18,OPEN
+Viasat,Other,2023-04-12,
+Science 37,Healthcare,2023-04-12,Not Found
+Medtronic,Healthcare,2023-04-12,MDT
+Redfin,Real Estate,2023-04-11,RDFN
+Acxiom,Marketing,2023-04-11,Not Found
+Pear Therapeutics,Healthcare,2023-04-07,
+Absolute Software,Security,2023-04-06,TSX
+Amplitude,Data,2023-04-05,
+View,Other,2023-04-03,
+Apple,Retail,2023-04-03,
+Roku,Media,2023-03-30,
+LendingTree,Finance,2023-03-30,Not Found
+Spotify,Media,2023-03-30,Not Found
+Kyndryl,Infrastructure,2023-03-30,KD
+Electronic Arts,Consumer,2023-03-29,EA
+Seagate,Hardware,2023-03-29,
+iCAD,Healthcare,2023-03-29,
+Shift,Transportation,2023-03-29,
+Lucid Motors,Transportation,2023-03-28,LCID
+AEye,Transportation,2023-03-28,
+Better Therapeutics,Healthcare,2023-03-27,Not Found
+Cimpress,Retail,2023-03-23,CMPR
+Logitech,Hardware,2023-03-22,LOGN
+Wejo,Transportation,2023-03-22,WEJOQ
+Marvell,Hardware,2023-03-21,
+Expedia,Travel,2023-03-21,
+Laybuy,Finance,2023-03-21,
+Amazon,Retail,2023-03-20,
+Freshworks,Support,2023-03-16,FRSH
+Coherent,Manufacturing,2023-03-16,
+Leafly,Retail,2023-03-16,LFLY
+Boxed,Retail,2023-03-15,
+Nubank,Finance,2023-03-15,NU
+Meta,Consumer,2023-03-14,
+Samsung,Hardware,2023-03-14,Not Found
+GoTo Group,Transportation,2023-03-10,Not Found
+Xero,Finance,2023-03-09,
+Neoleukin Therapeutics,Healthcare,2023-03-09,
+Take-Two Interactive,Consumer,2023-03-07,TTWO
+Atlassian,Other,2023-03-06,TEAM
+SiriusXM,Media,2023-03-06,SIRI
+Embark Trucks,Transportation,2023-03-03,
+Airbnb,Travel,2023-03-03,ABNB
+Accolade,Healthcare,2023-03-03,
+Zscaler,Security,2023-03-02,ZS
+Thoughtworks,Other,2023-03-01,Not Found
+Sonder,Travel,2023-03-01,
+Electronic Arts,Consumer,2023-02-28,EA
+Eventbrite,Consumer,2023-02-28,Not Found
+MeridianLink,Finance,2023-02-28,
+Sono Motors,Transportation,2023-02-27,SEV
+Palantir,Data,2023-02-27,
+Twitter,Consumer,2023-02-25,Not Found
+Ericsson,Other,2023-02-24,ERIC
+Lucira Health,Healthcare,2023-02-24,
+EQRx,Healthcare,2023-02-24,Not Found
+EVgo,Transportation,2023-02-23,EVGO
+TaskUs,Support,2023-02-22,TASK
+Criteo,Marketing,2023-02-21,CRTO
+Zalando,Retail,2023-02-21,ZAL
+HP,Hardware,2023-02-19,
+Micron,Hardware,2023-02-17,
+Tencent,Consumer,2023-02-17,Not Found
+Digimarc,Other,2023-02-17,DMRC
+DocuSign,Sales,2023-02-16,DOCU
+The RealReal,Retail,2023-02-16,REAL
+Smartsheet,Other,2023-02-16,
+Wix,Marketing,2023-02-15,
+DigitalOcean,Infrastructure,2023-02-15,DOCN
+Sprinklr,Support,2023-02-15,Not Found
+Momentive,Marketing,2023-02-15,Not Found
+Vicarious Surgical,Healthcare,2023-02-15,
+Blackbaud,Other,2023-02-14,BLKB
+Udemy,Education,2023-02-14,Not Found
+Twilio,Other,2023-02-13,Not Found
+Titan Medical,Healthcare,2023-02-10,
+Rigetti Computing,Hardware,2023-02-10,RGTI
+Deliveroo,Food,2023-02-09,ROO
+Oportun,Finance,2023-02-09,
+GitLab,Product,2023-02-09,
+Bark,Retail,2023-02-09,
+REE Automotive,Transportation,2023-02-09,REE
+GoDaddy,Marketing,2023-02-08,Not Found
+Affirm,Finance,2023-02-08,
+Zoom,Other,2023-02-07,
+eBay,Retail,2023-02-07,EBAY
+SecureWorks,Security,2023-02-07,
+Openpay,Finance,2023-02-07,OPY.AX
+Dell,Hardware,2023-02-06,Not Found
+Okta,Security,2023-02-02,
+Autodesk,Other,2023-02-02,ADSK
+NCC Group,Security,2023-02-02,NCC
+Desktop Metal,Other,2023-02-02,DM
+Getaround,Transportation,2023-02-02,GETR
+NCSoft,Consumer,2023-02-02,Not Found
+Splunk,Data,2023-02-01,Not Found
+Pinterest,Consumer,2023-02-01,Not Found
+DraftKings,Consumer,2023-02-01,DKNG
+Cyren,Security,2023-02-01,
+VerticalScope,Media,2023-02-01,Not Found
+Appgate,Security,2023-02-01,Not Found
+Frequency Therapeutics,Healthcare,2023-02-01,
+MariaDB,Data,2023-02-01,
+Match Group,Consumer,2023-02-01,MTCH
+Rivian,Transportation,2023-02-01,RIVN
+PayPal,Finance,2023-01-31,PYPL
+NetApp,Data,2023-01-31,NTAP
+Workday,HR,2023-01-31,
+HubSpot,Marketing,2023-01-31,HUBS
+Upstart,Finance,2023-01-31,
+Software AG,Data,2023-01-31,Not Found
+Wish,Retail,2023-01-31,
+Nubank,Finance,2023-01-31,NU
+National Instruments,Hardware,2023-01-31,Not Found
+OpenText,Data,2023-01-31,TSX
+Philips,Healthcare,2023-01-30,PHIA
+Arrival,Transportation,2023-01-30,
+Groupon,Retail,2023-01-30,
+Intel,Hardware,2023-01-30,INTC
+Delivery Hero,Food,2023-01-30,DHER
+BM Technologies,Finance,2023-01-30,
+Quantum SI,Healthcare,2023-01-30,
+SoFi,Finance,2023-01-30,SOFI
+Synopsys,Other,2023-01-27,SNPS
+SAP,Other,2023-01-26,SAP
+Confluent,Data,2023-01-26,CFLT
+Mode Global,Finance,2023-01-26,
+IBM,Hardware,2023-01-25,IBM
+Lam Research,Hardware,2023-01-25,LRCX
+Guardant Health,Healthcare,2023-01-25,GH
+PagSeguro,Finance,2023-01-25,PAGS
+Vacasa,Travel,2023-01-24,VCSA
+PagerDuty,Product,2023-01-24,PD
+Spotify,Media,2023-01-23,Not Found
+Innovid,Marketing,2023-01-23,CTV
+Yext,Marketing,2023-01-23,Not Found
+Google,Consumer,2023-01-20,GOOG
+Wayfair,Retail,2023-01-20,W
+Capital One,Finance,2023-01-19,COF
+Proterra,Transportation,2023-01-19,
+WeWork ,Real Estate,2023-01-19,Not Found
+CS Disco,Legal,2023-01-19,
+Magnite,Marketing,2023-01-19,
+Personalis,Healthcare,2023-01-19,
+Wallbox,Energy,2023-01-19,WBX
+Microsoft,Other,2023-01-18,MSFT
+Teladoc Health,Healthcare,2023-01-18,TDOC
+Vroom,Transportation,2023-01-18,
+8x8,Support,2023-01-18,Not Found
+Pagaya,Finance,2023-01-18,
+Inspirato,Travel,2023-01-18,
+nCino,Finance,2023-01-18,NCNO
+Starry,Other,2023-01-18,
+Bally's Interactive,Consumer,2023-01-18,BALY
+Cazoo,Transportation,2023-01-18,Not Found
+Lucid Diagnostics,Healthcare,2023-01-18,
+Redbubble,Retail,2023-01-18,Not Found
+Lightspeed Commerce,Retail,2023-01-17,TSX
+Unity,Other,2023-01-17,
+RingCentral,Other,2023-01-17,RNG
+Avaya,Other,2023-01-17,Not Found
+LiveVox,Support,2023-01-17,NICE
+Oracle,Other,2023-01-17,
+XP,Finance,2023-01-17,
+PagBank,Finance,2023-01-16,PAGS
+Carvana,Transportation,2023-01-13,CVNA
+Lending Club,Finance,2023-01-12,LC
+Definitive Healthcare,Healthcare,2023-01-12,
+Akili Labs,Healthcare,2023-01-12,
+Life360,Consumer,2023-01-12,Not Found
+Qualtrics,Other,2023-01-11,Not Found
+HashiCorp,Security,2023-01-11,Not Found
+Coinbase,Crypto,2023-01-10,COIN
+Informatica,Data,2023-01-10,INFA
+Blend,Finance,2023-01-10,
+Thinkific,Education,2023-01-10,
+Fate Therapeutics,Healthcare,2023-01-09,
+Century Therapeutics,Healthcare,2023-01-09,Not Found
+Editas Medicine,Healthcare,2023-01-09,EDIT
+WalkMe,Other,2023-01-08,
+Cue,Healthcare,2023-01-05,
+SoundHound,Other,2023-01-05,SOUN
+Twitter,Consumer,2023-01-05,Not Found
+Compass,Real Estate,2023-01-05,
+Megaport,Infrastructure,2023-01-05,
+Stitch Fix,Retail,2023-01-05,SFIX
+TCR2,Healthcare,2023-01-05,
+Amazon,Retail,2023-01-04,
+Salesforce,Sales,2023-01-04,CRM
+Kaltura,Media,2023-01-04,KLTR
+Butterfly Network,Healthcare,2023-01-04,
+Vimeo,Consumer,2023-01-04,VMEO
+Pegasystems,HR,2023-01-03,PEGA
+Amdocs,Support,2023-01-02,DOX
+Micron,Hardware,2023-01-01,
+Bilibili,Media,2022-12-27,Not Found
+Qualcomm,Hardware,2022-12-22,QCOM
+TuSimple,Transportation,2022-12-21,TSPH
+Xiaomi,Consumer,2022-12-19,Not Found
+ E Inc.,Transportation,2022-12-16,Not Found
+BigCommerce,Retail,2022-12-15,BIGC
+Freshworks,Support,2022-12-15,FRSH
+JD.ID,Retail,2022-12-14,JD
+Quanergy Systems,Transportation,2022-12-14,
+Edgio,Infrastructure,2022-12-13,Not Found
+Viant,Marketing,2022-12-13,Not Found
+Playtika,Consumer,2022-12-09,PLTK
+N-able Technologies,Other,2022-12-09,SWI
+Otonomo,Transportation,2022-12-08,Not Found
+TechTarget,Marketing,2022-12-08,TTGT
+Bakkt,Crypto,2022-12-08,BKKT
+Blue Apron,Food,2022-12-08,Not Found
+Lenovo,Hardware,2022-12-08,Not Found
+Nerdy,Education,2022-12-08,
+Doma,Finance,2022-12-06,
+Intel,Hardware,2022-12-06,INTC
+BuzzFeed,Media,2022-12-06,BZFD
+Adobe,Marketing,2022-12-06,
+Zuora,Finance,2022-12-06,Not Found
+Thinkific,Education,2022-12-05,
+Springbig,Sales,2022-12-01,
+SQZ Biotech,Healthcare,2022-12-01,
+Synlogic,Healthcare,2022-12-01,Not Found
+DoorDash,Food,2022-11-30,DASH
+Elastic,Data,2022-11-30,
+Pinterest,Consumer,2022-11-30,Not Found
+Codexis,Healthcare,2022-11-29,CDXS
+SWVL,Transportation,2022-11-23,SWVL
+Western Digital,Hardware,2022-11-22,WDC
+Natera,Healthcare,2022-11-22,NTRA
+Jumia,Retail,2022-11-21,JMIA
+Carvana,Transportation,2022-11-18,CVNA
+Roku,Media,2022-11-17,
+Homepoint,Real Estate,2022-11-17,
+Amazon,Retail,2022-11-16,
+Cisco,Infrastructure,2022-11-16,CSCO
+Similarweb,Other,2022-11-16,Not Found
+Pear Therapeutics,Healthcare,2022-11-16,
+D2L,Education,2022-11-16,DTOL
+UiPath,Data,2022-11-15,PATH
+Asana,Other,2022-11-15,
+Deliveroo Australia,Food,2022-11-15,ROO
+Oatly,Food,2022-11-15,OTLY
+Rubicon Technologies,Other,2022-11-15,
+Tencent,Consumer,2022-11-15,Not Found
+Whispir,Other,2022-11-15,
+Illumina,Healthcare,2022-11-14,
+Sema4,Healthcare,2022-11-14,
+Science 37 ,Healthcare,2022-11-14,Not Found
+Pear Therapeutics,Healthcare,2022-11-14,
+Cardlytics,Marketing,2022-11-14,
+Tricida,Healthcare,2022-11-14,
+Offerpad,Real Estate,2022-11-11,
+GoTo Group,Transportation,2022-11-10,Not Found
+Blend,Finance,2022-11-10,
+Coinbase,Crypto,2022-11-10,COIN
+SoundHound,Other,2022-11-10,SOUN
+Meta,Consumer,2022-11-09,
+Redfin,Real Estate,2022-11-09,RDFN
+Root Insurance,Finance,2022-11-09,ROOT
+Coursera,Education,2022-11-09,
+RingCentral,Other,2022-11-09,RNG
+Spotify,Media,2022-11-09,Not Found
+EverBridge,Other,2022-11-08,Not Found
+Astra,Aerospace,2022-11-08,
+NanoString,Healthcare,2022-11-08,NSTGQ
+Salesforce,Sales,2022-11-07,CRM
+Varonis,Security,2022-11-06,VRNS
+Twitter,Consumer,2022-11-04,Not Found
+Lyft,Transportation,2022-11-03,LYFT
+LendingTree,Finance,2022-11-03,Not Found
+Delivery Hero,Food,2022-11-03,DHER
+Affirm,Finance,2022-11-03,
+LiveRamp,Marketing,2022-11-03,RAMP
+Rubius,Healthcare,2022-11-03,
+Opendoor,Real Estate,2022-11-02,OPEN
+Oracle,Other,2022-11-01,
+Upstart,Finance,2022-11-01,
+Amazon,Retail,2022-10-28,
+Seagate,Hardware,2022-10-26,
+MindBody,Fitness,2022-10-26,
+Zillow,Real Estate,2022-10-26,Z
+Philips,Healthcare,2022-10-24,PHIA
+F5,Security,2022-10-21,
+Volta,Transportation,2022-10-21,
+Arrival,Transportation,2022-10-20,
+Starry,Other,2022-10-20,
+Leafly,Retail,2022-10-18,LFLY
+Microsoft,Other,2022-10-17,MSFT
+Beyond Meat,Food,2022-10-14,BYND
+Beyond Meat,Food,2022-10-14,BYND
+Salesforce,Sales,2022-10-13,CRM
+Sinch,Other,2022-10-12,
+HelloFresh,Food,2022-10-10,HFG
+Momentive,Marketing,2022-10-10,Not Found
+BioMarin,Healthcare,2022-10-07,BMRN
+Peloton,Fitness,2022-10-06,
+Spotify,Media,2022-10-06,Not Found
+8x8,Support,2022-10-04,Not Found
+Westwing,Retail,2022-09-29,
+DocuSign,Sales,2022-09-28,DOCU
+Volta,Transportation,2022-09-28,
+Compass,Real Estate,2022-09-20,
+Ouster,Transportation,2022-09-20,
+LivePerson,Support,2022-09-15,TASE
+Acast,Media,2022-09-15,ACAST
+Twilio,Other,2022-09-14,Not Found
+Netflix,Media,2022-09-14,
+Rubius,Healthcare,2022-09-13,
+Taboola,Marketing,2022-09-13,TBLA
+Rent the Runway,Retail,2022-09-12,Not Found
+BigBear.ai,Data,2022-09-08,
+Uber,Transportation,2022-09-07,UBER
+Sea,Consumer,2022-09-02,
+Shopify,Retail,2022-09-01,SHOP
+Snap,Consumer,2022-08-31,
+GoodRx,Healthcare,2022-08-31,GDRX
+Hippo Insurance,Finance,2022-08-31,HIPO
+TCR2,Healthcare,2022-08-31,
+Skillz,Consumer,2022-08-29,
+Otonomo,Transportation,2022-08-28,Not Found
+Okta,Security,2022-08-26,
+Kogan,Retail,2022-08-23,
+Wayfair,Retail,2022-08-19,W
+New Relic,Infrastructure,2022-08-18,Not Found
+Sema4,Healthcare,2022-08-15,
+Blend,Finance,2022-08-15,
+ContraFect,Healthcare,2022-08-15,
+ThredUp,Retail,2022-08-15,TDUP
+Peloton,Fitness,2022-08-12,
+Core Scientific,Crypto,2022-08-12,Not Found
+Guidewire,Finance,2022-08-11,
+GoHealth,Healthcare,2022-08-09,GOCO
+Nutanix,Infrastructure,2022-08-09,NTNX
+Quanterix,Healthcare,2022-08-09,BIM
+Wix,Marketing,2022-08-09,
+Absci,Healthcare,2022-08-09,Not Found
+Berkeley Lights,Healthcare,2022-08-09,
+Kaltura,Media,2022-08-09,KLTR
+Shift,Transportation,2022-08-09,
+Sweetgreen,Food,2022-08-09,SG
+Groupon,Retail,2022-08-08,
+Vroom,Transportation,2022-08-08,
+Warby Parker,Consumer,2022-08-08,WRBY
+Perion,Marketing,2022-08-08,
+Doma,Finance,2022-08-04,
+10X Genomics,Healthcare,2022-08-04,TXG
+RingCentral,Support,2022-08-04,RNG
+Beyond Meat,Food,2022-08-03,BYND
+Robinhood,Finance,2022-08-02,
+Latch,Security,2022-08-02,
+Butterfly Network,Healthcare,2022-08-02,
+FuboTV,Media,2022-08-02,FUBO
+Oracle,Other,2022-08-01,
+MissFresh,Food,2022-07-29,Not Found
+Laybuy,Finance,2022-07-28,
+Allbirds,Retail,2022-07-28,BIRD
+2U,Education,2022-07-28,
+Rivian,Transportation,2022-07-27,RIVN
+Shopify,Retail,2022-07-26,SHOP
+Fiverr,Other,2022-07-26,
+Outbrain,Marketing,2022-07-26,OB
+Pear Therapeutics ,Healthcare,2022-07-25,
+Owlet,Healthcare,2022-07-22,
+AppGate,Security,2022-07-21,
+Just Eat Takeaway,Food,2022-07-20,AEX
+Lyft,Transportation,2022-07-20,LYFT
+Invitae,Healthcare,2022-07-19,NVTAQ
+Vimeo,Consumer,2022-07-18,VMEO
+Arrival,Transportation,2022-07-13,
+Babylon,Healthcare,2022-07-12,Not Found
+Microsoft,Other,2022-07-12,MSFT
+Twitter,Consumer,2022-07-07,Not Found
+Shopify,Retail,2022-07-06,SHOP
+Canoo,Transportation,2022-07-01,GOEVQ
+Enjoy,Retail,2022-06-30,
+Unity,Other,2022-06-29,
+AppLovin,Marketing,2022-06-27,APP
+UiPath,Data,2022-06-27,PATH
+Cue,Healthcare,2022-06-27,
+Banxa,Crypto,2022-06-27,
+Netflix,Media,2022-06-23,
+IronNet,Security,2022-06-22,
+IronNet,Security,2022-06-22,
+Sprinklr,Support,2022-06-22,Not Found
+TaskUs,Support,2022-06-21,TASK
+Coinbase,Crypto,2022-06-14,COIN
+Redfin,Real Estate,2022-06-14,RDFN
+Compass,Real Estate,2022-06-14,
+Desktop Metal,Other,2022-06-13,DM
+Stitch Fix,Retail,2022-06-09,SFIX
+Boozt,Retail,2022-06-09,
+Sonder,Travel,2022-06-08,
+Cazoo,Transportation,2022-06-07,Not Found
+Cazoo,Transportation,2022-06-07,Not Found
+Bird,Transportation,2022-06-07,
+Tesla,Transportation,2022-06-03,
+TomTom,Transportation,2022-06-01,TOM2
+Playtika,Consumer,2022-05-31,PLTK
+SWVL,Transportation,2022-05-30,SWVL
+VTEX,Retail,2022-05-26,
+PayPal,Finance,2022-05-23,PYPL
+Latch,Security,2022-05-20,
+Skillz,Consumer,2022-05-20,
+Netflix,Media,2022-05-17,
+Carvana,Transportation,2022-05-10,CVNA
+Doma,Finance,2022-05-10,
+Latch,Security,2022-05-10,
+Vroom,Transportation,2022-05-09,
+Netflix,Media,2022-04-28,
+Robinhood,Finance,2022-04-26,
+Lemonade,Finance,2022-04-20,
+Blend,Finance,2022-04-19,
+Goodfood,Food,2022-04-07,FOOD
+Legible,Media,2022-04-04,
+Sea,Retail,2022-03-30,
+Thinkific,Education,2022-03-29,
+Storytel,Media,2022-03-17,Not Found
+Talis Biomedical,Healthcare,2022-03-15,
+Sezzle,Finance,2022-03-10,Not Found
+Adaptive Biotechnologies,Healthcare,2022-03-08,
+Wish,Retail,2022-03-01,
+Peloton,Fitness,2022-02-08,
+Root Insurance,Finance,2022-01-20,ROOT

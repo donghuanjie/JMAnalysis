@@ -1,0 +1,282 @@
+Founding Year,Traded As,URL,Company,Ticker
+1982,['ADSK'],https://en.wikipedia.org/wiki/Autodesk,Autodesk,ADSK
+1998,['GOOG'],https://en.wikipedia.org/wiki/Google,Google,GOOG
+1995,['EBAY'],https://en.wikipedia.org/wiki/eBay,eBay,EBAY
+1992,['DAY'],https://en.wikipedia.org/wiki/Dayforce,Dayforce,DAY
+2011,['IBTA'],https://en.wikipedia.org/wiki/Ibotta,Ibotta,IBTA
+1997,['NTES'],https://en.wikipedia.org/wiki/NetEase,NetEase,NTES
+2012,['RSKD'],https://en.wikipedia.org/wiki/Riskified,Riskified,RSKD
+2004,['RDFN'],https://en.wikipedia.org/wiki/Redfin,Redfin,RDFN
+2009,['Not Found'],https://en.wikipedia.org/wiki/Sprinklr,Sprinklr,Not Found
+2006,['OB'],https://en.wikipedia.org/wiki/Outbrain,Outbrain,OB
+2002,['SONO'],https://en.wikipedia.org/wiki/Sonos,Sonos,SONO
+2000,['Not Found'],https://en.wikipedia.org/wiki/TripAdvisor,TripAdvisor,Not Found
+1968,['INTC'],https://en.wikipedia.org/wiki/Intel,Intel,INTC
+1999,['CRM'],https://en.wikipedia.org/wiki/Salesforce,Salesforce,CRM
+1975,['MSFT'],https://en.wikipedia.org/wiki/Microsoft,Microsoft,MSFT
+2002,['W'],https://en.wikipedia.org/wiki/Wayfair,Wayfair,W
+2006,"['Z', 'ZG']",https://en.wikipedia.org/wiki/Zillow,Zillow,Z
+2006,['SEDG'],https://en.wikipedia.org/wiki/SolarEdge,SolarEdge,SEDG
+2017,['GOEVQ'],https://en.wikipedia.org/wiki/Canoo,Canoo,GOEVQ
+1996,['BKNG'],https://en.wikipedia.org/wiki/Booking_Holdings,Booking Holdings,BKNG
+2005,"['TSX', 'LSPD']",https://en.wikipedia.org/wiki/Lightspeed_Commerce,Lightspeed Commerce,TSX
+2010,['SPT'],https://en.wikipedia.org/wiki/Sprout_Social,Sprout Social,SPT
+2017,"['OLAELEC', 'NSE', 'BSE']",https://en.wikipedia.org/wiki/Ola_Electric,Ola Electric,OLAELEC
+1969,['AMD'],https://en.wikipedia.org/wiki/AMD,AMD,AMD
+2012,['APP'],https://en.wikipedia.org/wiki/AppLovin,AppLovin,APP
+2006,['Not Found'],https://en.wikipedia.org/wiki/Chegg,Chegg,Not Found
+2006,['ENPH'],https://en.wikipedia.org/wiki/Enphase_Energy,Enphase Energy,ENPH
+2006,['ME'],https://en.wikipedia.org/wiki/23andMe,23andMe,ME
+2009,['BIGC'],https://en.wikipedia.org/wiki/BigCommerce,BigCommerce,BIGC
+2010,['FRSH'],https://en.wikipedia.org/wiki/Freshworks,Freshworks,FRSH
+2014,['OPEN'],https://en.wikipedia.org/wiki/Opendoor,Opendoor,OPEN
+1998,['AKAM'],https://en.wikipedia.org/wiki/Akamai,Akamai,AKAM
+1990,['IRBT'],https://en.wikipedia.org/wiki/iRobot,iRobot,IRBT
+2000,['Not Found'],https://en.wikipedia.org/wiki/Avaya,Avaya,Not Found
+2007,['DBX'],https://en.wikipedia.org/wiki/Dropbox,Dropbox,DBX
+1999,['Not Found'],https://en.wikipedia.org/wiki/Upwork,Upwork,Not Found
+2006,['PUBM'],https://en.wikipedia.org/wiki/Pubmatic,PubMatic,PUBM
+1911,['IBM'],https://en.wikipedia.org/wiki/IBM,IBM,IBM
+2010,['Not Found'],https://en.wikipedia.org/wiki/Udemy,Udemy,Not Found
+1999,['MBLY'],https://en.wikipedia.org/wiki/Mobileye,Mobileye,MBLY
+2012,['LYFT'],https://en.wikipedia.org/wiki/Lyft,Lyft,LYFT
+2002,['GPRO'],https://en.wikipedia.org/wiki/GoPro,GoPro,GPRO
+2011,['Not Found'],https://en.wikipedia.org/wiki/OMR_Festival,Mister Spex,Not Found
+1984,['CSCO'],https://en.wikipedia.org/wiki/Cisco,Cisco,CSCO
+2011,['FSLY'],https://en.wikipedia.org/wiki/Fastly,Fastly,FSLY
+2006,['Not Found'],https://en.wikipedia.org/wiki/Eventbrite,Eventbrite,Not Found
+2001,['LZ'],https://en.wikipedia.org/wiki/LegalZoom,LegalZoom,LZ
+1979,['TDC'],https://en.wikipedia.org/wiki/Teradata,Teradata,TDC
+1999,['IFX'],https://en.wikipedia.org/wiki/Infineon,Infineon,IFX
+1984,['Not Found'],https://en.wikipedia.org/wiki/Dell,Dell,Not Found
+2011,['DHER'],https://en.wikipedia.org/wiki/Delivery_Hero,Delivery Hero,DHER
+2009,['MTCH'],https://en.wikipedia.org/wiki/Match_Group,Match Group,MTCH
+2009,['Not Found'],https://en.wikipedia.org/wiki/NerdWallet,NerdWallet,Not Found
+2006,['Not Found'],https://en.wikipedia.org/wiki/Spotify,Spotify,Not Found
+1983,['INTU'],https://en.wikipedia.org/wiki/Intuit,Intuit,INTU
+2005,['PATH'],https://en.wikipedia.org/wiki/UiPath,UIPath,PATH
+1991,"['TSX', 'OTEX']",https://en.wikipedia.org/wiki/OpenText,OpenText,TSX
+2008,['DNA'],https://en.wikipedia.org/wiki/Ginkgo_Bioworks,Ginkgo Bioworks,DNA
+1126,['PYPL'],https://en.wikipedia.org/wiki/PayPal,PayPal,PYPL
+2010,['SATL'],https://en.wikipedia.org/wiki/Satellogic,Satellogic,SATL
+1949,['MDT'],https://en.wikipedia.org/wiki/Medtronic,Medtronic,MDT
+2006,['Not Found'],https://en.wikipedia.org/wiki/Yext,Yext,Not Found
+2010,['FCH'],https://en.wikipedia.org/wiki/Funding_Circle,Funding Circle,FCH
+2007,['LCID'],https://en.wikipedia.org/wiki/Lucid_Motors,Lucid Motors,LCID
+2009,['RIVN'],https://en.wikipedia.org/wiki/Rivian,Rivian,RIVN
+2009,['VCSA'],https://en.wikipedia.org/wiki/Vacasa,Vacasa,VCSA
+1984,"['TSX', 'KXS']",https://en.wikipedia.org/wiki/Kinaxis,Kinaxis,TSX
+1126,['BKKT'],https://en.wikipedia.org/wiki/Bakkt,Bakkt,BKKT
+1993,['TTWO'],https://en.wikipedia.org/wiki/Take-Two,Take-Two,TTWO
+2005,['CRTO'],https://en.wikipedia.org/wiki/Criteo,Criteo,CRTO
+1126,['Not Found'],https://en.wikipedia.org/wiki/Edgio,Edgio,Not Found
+1982,['EA'],https://en.wikipedia.org/wiki/Electronic_Arts,Electronic Arts,EA
+2014,['BMBL'],https://en.wikipedia.org/wiki/Bumble,Bumble,BMBL
+2006,['BZFD'],https://en.wikipedia.org/wiki/BuzzFeed,BuzzFeed,BZFD
+1994,['APTV'],https://en.wikipedia.org/wiki/Aptiv,Aptiv,APTV
+2006,['Not Found'],https://en.wikipedia.org/wiki/Storytel,Storytel,Not Found
+2012,['CART'],https://en.wikipedia.org/wiki/Instacart,Instacart,CART
+2000,['PI'],https://en.wikipedia.org/wiki/Impinj,Impinj,PI
+2008,['SIRI'],https://en.wikipedia.org/wiki/SiriusXM,SiriusXM,SIRI
+2009,['PSTG'],https://en.wikipedia.org/wiki/Pure_Storage,Pure Storage,PSTG
+2009,['GETR'],https://en.wikipedia.org/wiki/Getaround,Getaround,GETR
+2003,['DOCU'],https://en.wikipedia.org/wiki/DocuSign,DocuSign,DOCU
+1957,['Not Found'],https://en.wikipedia.org/wiki/Magna_International,Innoviz,Not Found
+2007,['Not Found'],https://en.wikipedia.org/wiki/Zuora,Zuora,Not Found
+2002,['PCOR'],https://en.wikipedia.org/wiki/Procore,Procore,PCOR
+2002,['JAMF'],https://en.wikipedia.org/wiki/Jamf,Jamf,JAMF
+2015,['DM'],https://en.wikipedia.org/wiki/Desktop_Metal,Desktop Metal,DM
+2006,['HUBS'],https://en.wikipedia.org/wiki/HubSpot,HubSpot,HUBS
+1972,"['SAP', 'DAX', 'SAPA']",https://en.wikipedia.org/wiki/SAP,SAP,SAP
+2011,['SFIX'],https://en.wikipedia.org/wiki/Stitch_Fix,Stitch Fix,SFIX
+2003,['Not Found'],https://en.wikipedia.org/wiki/New_Work_SE,New Work SE,Not Found
+2010,['PLTK'],https://en.wikipedia.org/wiki/Playtika,Playtika,PLTK
+2009,['NET'],https://en.wikipedia.org/wiki/Cloudflare,Cloudflare,NET
+2011,['SOFI'],https://en.wikipedia.org/wiki/SoFi,SoFi,SOFI
+1975,['Not Found'],https://en.wikipedia.org/wiki/Luisa_World,Nevro,Not Found
+2009,['Not Found'],https://en.wikipedia.org/wiki/Rent_the_Runway,Rent the Runway,Not Found
+2010,['Not Found'],https://en.wikipedia.org/wiki/EVBox,EVBox,Not Found
+2007,['SMR'],https://en.wikipedia.org/wiki/NuScale_Power,NuScale Power,SMR
+2003,['NSTGQ'],https://en.wikipedia.org/wiki/NanoString_Technologies,NanoString Technologies,NSTGQ
+1906,['XRX'],https://en.wikipedia.org/wiki/Xerox,Xerox,XRX
+2000,['OCDO'],https://en.wikipedia.org/wiki/Ocado,Ocado,OCDO
+1972,['KSPN'],https://en.wikipedia.org/wiki/Kaspien,Kaspien,KSPN
+1990,['ARM'],https://en.wikipedia.org/wiki/Arm_Holdings,Arm Holdings,ARM
+2010,['NVTAQ'],https://en.wikipedia.org/wiki/Invitae,Invitae,NVTAQ
+2005,['ETSY'],https://en.wikipedia.org/wiki/Etsy,Etsy,ETSY
+1965,['ADI'],https://en.wikipedia.org/wiki/Analog_Devices,Analog Devices,ADI
+1991,['TOM2'],https://en.wikipedia.org/wiki/TomTom,TomTom,TOM2
+2014,['SDCCQ'],https://en.wikipedia.org/wiki/SmileDirectClub,SmileDirectClub,SDCCQ
+2006,['BILL'],https://en.wikipedia.org/wiki/Bill.com,Bill.com,BILL
+2015,['TSPH'],https://en.wikipedia.org/wiki/TuSimple,TuSimple,TSPH
+2008,['Not Found'],https://en.wikipedia.org/wiki/Twilio,Twilio,Not Found
+1126,['Not Found'],https://en.wikipedia.org/wiki/Sarcos,Sarcos,Not Found
+2013,['MKFG'],https://en.wikipedia.org/wiki/Markforged,Markforged,MKFG
+2008,['KIND'],https://en.wikipedia.org/wiki/Nextdoor,Nextdoor,KIND
+2009,['BYND'],https://en.wikipedia.org/wiki/Beyond_Meat,Beyond Meat,BYND
+2001,['SRAD'],https://en.wikipedia.org/wiki/Sportradar,Sportradar,SRAD
+1993,['INFA'],https://en.wikipedia.org/wiki/Informatica,Informatica,INFA
+2003,['Not Found'],https://en.wikipedia.org/wiki/Splunk,Splunk,Not Found
+2015,['HIPO'],https://en.wikipedia.org/wiki/Hippo_Insurance,Hippo Insurance,HIPO
+1988,['FSECURE'],https://en.wikipedia.org/wiki/_F-Secure_,F-Secure,FSECURE
+1985,['QCOM'],https://en.wikipedia.org/wiki/Qualcomm,Qualcomm,QCOM
+2006,['LC'],https://en.wikipedia.org/wiki/Lending_Club,Lending Club,LC
+1996,['JNPR'],https://en.wikipedia.org/wiki/Juniper_Networks,Juniper Networks,JNPR
+2016,['SEV'],https://en.wikipedia.org/wiki/Sono_Motors,Sono Motors,SEV
+2007,['Not Found'],https://en.wikipedia.org/wiki/Oregon_Venture_Fund,Absci,Not Found
+1983,['PEGA'],https://en.wikipedia.org/wiki/Pegasystems,Pegasystems,PEGA
+1969,['ZBRA'],https://en.wikipedia.org/wiki/Zebra_Technologies,Zebra Technologies,ZBRA
+2014,['Not Found'],https://en.wikipedia.org/wiki/SenseTime,SenseTime,Not Found
+2000,['FTNT'],https://en.wikipedia.org/wiki/Fortinet,Fortinet,FTNT
+2001,['BL'],https://en.wikipedia.org/wiki/BlackLine,BlackLine,BL
+2013,['TMPO'],https://en.wikipedia.org/wiki/Tempo_Automation,Tempo Automation,TMPO
+2006,['APPF'],https://en.wikipedia.org/wiki/AppFolio,AppFolio,APPF
+1999,['Not Found'],https://en.wikipedia.org/wiki/Shutterfly,Shutterfly,Not Found
+1999,['NCC'],https://en.wikipedia.org/wiki/NCC_Group,NCC Group,NCC
+2013,['BBLN'],https://en.wikipedia.org/wiki/Babylon_Health,Babylon Health,BBLN
+2010,['BUKA'],https://en.wikipedia.org/wiki/Bukalapak,Bukalapak,BUKA
+1993,['Not Found'],https://en.wikipedia.org/wiki/Thoughtworks,Thoughtworks,Not Found
+2010,['DOCS'],https://en.wikipedia.org/wiki/Doximity,Doximity,DOCS
+2017,['APPHQ'],https://en.wikipedia.org/wiki/AppHarvest,AppHarvest,APPHQ
+2009,['PHUN'],https://en.wikipedia.org/wiki/Phunware,Phunware,PHUN
+2012,['Not Found'],https://en.wikipedia.org/wiki/Blue_Apron,Blue Apron,Not Found
+1993,"['AUDC', 'TASE']",https://en.wikipedia.org/wiki/AudioCodes,AudioCodes,AUDC
+2012,['Not Found'],https://en.wikipedia.org/wiki/Freightos,Freightos,Not Found
+2011,['Not Found'],https://en.wikipedia.org/wiki/Matterport,Matterport,Not Found
+2011,['EVER'],https://en.wikipedia.org/wiki/Everquote,Everquote,EVER
+1982,['DOX'],https://en.wikipedia.org/wiki/Amdocs,Amdocs,DOX
+2014,"['ASX', 'VGL']",https://en.wikipedia.org/wiki/Vista_Group,Vista Group,ASX
+2008,['Not Found'],https://en.wikipedia.org/wiki/New_Relic,New Relic,Not Found
+2018,['NRDE'],https://en.wikipedia.org/wiki/Lordstown_Motors,Lordstown Motors,NRDE
+2005,['PAYO'],https://en.wikipedia.org/wiki/Payoneer,Payoneer,PAYO
+2009,['UBER'],https://en.wikipedia.org/wiki/Uber,Uber,UBER
+2005,['TRUE'],https://en.wikipedia.org/wiki/TrueCar,TrueCar,TRUE
+1970,['WDC'],https://en.wikipedia.org/wiki/Western_Digital,Western Digital,WDC
+2008,"['ZAL', 'DAX']",https://en.wikipedia.org/wiki/Zalando,Zalando,ZAL
+2013,['NU'],https://en.wikipedia.org/wiki/Nubank,Nubank,NU
+2012,['Not Found'],https://en.wikipedia.org/wiki/HashiCorp,HashiCorp,Not Found
+2007,['ZI'],https://en.wikipedia.org/wiki/ZoomInfo,ZoomInfo,ZI
+2013,['S'],https://en.wikipedia.org/wiki/SentinelOne,SentinelOne,S
+2010,['Not Found'],https://en.wikipedia.org/wiki/ZipRecruiter,ZipRecruiter,Not Found
+1999,['Not Found'],https://en.wikipedia.org/wiki/Telenav,Telenav,Not Found
+2006,['Not Found'],https://en.wikipedia.org/wiki/Redbubble,Redbubble,Not Found
+2007,['Not Found'],https://en.wikipedia.org/wiki/Similarweb,Similarweb,Not Found
+2005,['Not Found'],https://en.wikipedia.org/wiki/Klarna,Marqeta,Not Found
+2013,['TWST'],https://en.wikipedia.org/wiki/Twist_Bioscience,Twist Bioscience,TWST
+2006,"['SHOP', 'TSX']",https://en.wikipedia.org/wiki/Shopify,Shopify,SHOP
+2004,['Not Found'],https://en.wikipedia.org/wiki/Brightcove,Brightcove,Not Found
+1997,['Not Found'],https://en.wikipedia.org/wiki/Alteryx,Alteryx,Not Found
+1984,['Not Found'],https://en.wikipedia.org/wiki/Lenovo,Lenovo,Not Found
+2014,['Not Found'],https://en.wikipedia.org/wiki/Science_37,Science 37,Not Found
+2018,['Not Found'],https://en.wikipedia.org/wiki/Acxiom,Acxiom,Not Found
+1993,['TSX'],https://en.wikipedia.org/wiki/Absolute_Software,Absolute Software,TSX
+1996,['Not Found'],https://en.wikipedia.org/wiki/LendingTree,LendingTree,Not Found
+2021,['KD'],https://en.wikipedia.org/wiki/Kyndryl,Kyndryl,KD
+2005,['Not Found'],https://en.wikipedia.org/wiki/Horizon_Therapeutics,Better Therapeutics,Not Found
+1995,['CMPR'],https://en.wikipedia.org/wiki/Cimpress,Cimpress,CMPR
+1981,"['LOGN', 'LOGI', 'SIX']",https://en.wikipedia.org/wiki/Logitech,Logitech,LOGN
+2013,['WEJOQ'],https://en.wikipedia.org/wiki/Wejo,Wejo,WEJOQ
+2010,['LFLY'],https://en.wikipedia.org/wiki/Leafly,Leafly,LFLY
+1938,['Not Found'],https://en.wikipedia.org/wiki/Samsung,Samsung,Not Found
+1997,['Not Found'],https://en.wikipedia.org/wiki/GoDaddy,GoTo Group,Not Found
+1993,['TTWO'],https://en.wikipedia.org/wiki/Take-Two_Interactive,Take-Two Interactive,TTWO
+2002,['TEAM'],https://en.wikipedia.org/wiki/Atlassian,Atlassian,TEAM
+2008,['ABNB'],https://en.wikipedia.org/wiki/Airbnb,Airbnb,ABNB
+2007,['ZS'],https://en.wikipedia.org/wiki/Zscaler,Zscaler,ZS
+2006,['Not Found'],https://en.wikipedia.org/wiki/Twitter,Twitter,Not Found
+1876,['ERIC'],https://en.wikipedia.org/wiki/Ericsson,Ericsson,ERIC
+1927,['Not Found'],https://en.wikipedia.org/wiki/Exor_%28company%29,EQRx,Not Found
+2010,['EVGO'],https://en.wikipedia.org/wiki/EVgo,EVgo,EVGO
+2008,['TASK'],https://en.wikipedia.org/wiki/TaskUs,TaskUs,TASK
+1998,['Not Found'],https://en.wikipedia.org/wiki/Tencent,Tencent,Not Found
+1995,['DMRC'],https://en.wikipedia.org/wiki/Digimarc,Digimarc,DMRC
+2011,['REAL'],https://en.wikipedia.org/wiki/The_RealReal,The RealReal,REAL
+2011,['DOCN'],https://en.wikipedia.org/wiki/DigitalOcean,DigitalOcean,DOCN
+1857,['Not Found'],https://en.wikipedia.org/wiki/Momentive,Momentive,Not Found
+1981,['BLKB'],https://en.wikipedia.org/wiki/Blackbaud,Blackbaud,BLKB
+2013,['RGTI'],https://en.wikipedia.org/wiki/Rigetti_Computing,Rigetti Computing,RGTI
+2013,['ROO'],https://en.wikipedia.org/wiki/Deliveroo,Deliveroo,ROO
+2011,['REE'],https://en.wikipedia.org/wiki/REE_Automotive,REE Automotive,REE
+1997,['Not Found'],https://en.wikipedia.org/wiki/GoDaddy,GoDaddy,Not Found
+2013,['OPY.AX'],https://en.wikipedia.org/wiki/Openpay,Openpay,OPY.AX
+1997,['Not Found'],https://en.wikipedia.org/wiki/NCSoft,NCSoft,Not Found
+2009,['Not Found'],https://en.wikipedia.org/wiki/Pinterest,Pinterest,Not Found
+2012,['DKNG'],https://en.wikipedia.org/wiki/DraftKings,DraftKings,DKNG
+1958,['Not Found'],https://en.wikipedia.org/wiki/VerticalScope,VerticalScope,Not Found
+1986,['Not Found'],https://en.wikipedia.org/wiki/BC_Partners,Appgate,Not Found
+1992,['NTAP'],https://en.wikipedia.org/wiki/NetApp,NetApp,NTAP
+1969,['Not Found'],https://en.wikipedia.org/wiki/Software_AG,Software AG,Not Found
+1976,['Not Found'],https://en.wikipedia.org/wiki/National_Instruments,National Instruments,Not Found
+1891,"['PHIA', 'PHG']",https://en.wikipedia.org/wiki/Philips,Philips,PHIA
+1986,['SNPS'],https://en.wikipedia.org/wiki/Synopsys,Synopsys,SNPS
+2014,['CFLT'],https://en.wikipedia.org/wiki/Confluent,Confluent,CFLT
+1980,['LRCX'],https://en.wikipedia.org/wiki/Lam_Research,Lam Research,LRCX
+2012,['GH'],https://en.wikipedia.org/wiki/Guardant_Health,Guardant Health,GH
+2006,['PAGS'],https://en.wikipedia.org/wiki/PagSeguro,PagSeguro,PAGS
+2009,['PD'],https://en.wikipedia.org/wiki/PagerDuty,PagerDuty,PD
+2007,['CTV'],https://en.wikipedia.org/wiki/Innovid,Innovid,CTV
+1994,['COF'],https://en.wikipedia.org/wiki/Capital_One,Capital One,COF
+2010,['Not Found'],https://en.wikipedia.org/wiki/WeWork_,WeWork,Not Found
+2015,['WBX'],https://en.wikipedia.org/wiki/Wallbox,Wallbox,WBX
+2002,['TDOC'],https://en.wikipedia.org/wiki/Teladoc_Health,Teladoc Health,TDOC
+1987,['Not Found'],https://en.wikipedia.org/wiki/8x8,8x8,Not Found
+2011,['NCNO'],https://en.wikipedia.org/wiki/nCino,nCino,NCNO
+2004,['BALY'],https://en.wikipedia.org/wiki/Bally%27s_Corporation,Bally's Interactive,BALY
+2018,['Not Found'],https://en.wikipedia.org/wiki/Cazoo,Cazoo,Not Found
+1999,['RNG'],https://en.wikipedia.org/wiki/RingCentral,RingCentral,RNG
+1986,"['NICE', 'TASE']",https://en.wikipedia.org/wiki/NICE_Ltd.,LiveVox,NICE
+2006,['PAGS'],https://en.wikipedia.org/wiki/PagSeguro,PagBank,PAGS
+2012,['CVNA'],https://en.wikipedia.org/wiki/Carvana,Carvana,CVNA
+2008,['Not Found'],https://en.wikipedia.org/wiki/Life360,Life360,Not Found
+2002,['Not Found'],https://en.wikipedia.org/wiki/Qualtrics,Qualtrics,Not Found
+2012,['COIN'],https://en.wikipedia.org/wiki/Coinbase,Coinbase,COIN
+1990,['Not Found'],https://en.wikipedia.org/wiki/Insys_Therapeutics,Century Therapeutics,Not Found
+2013,['EDIT'],https://en.wikipedia.org/wiki/Editas_Medicine,Editas Medicine,EDIT
+2005,['SOUN'],https://en.wikipedia.org/wiki/SoundHound,SoundHound,SOUN
+2006,['KLTR'],https://en.wikipedia.org/wiki/Kaltura,Kaltura,KLTR
+2004,['VMEO'],https://en.wikipedia.org/wiki/Vimeo,Vimeo,VMEO
+2009,['Not Found'],https://en.wikipedia.org/wiki/Bilibili,Bilibili,Not Found
+2010,['Not Found'],https://en.wikipedia.org/wiki/Xiaomi,Xiaomi,Not Found
+1977,['Not Found'],https://en.wikipedia.org/wiki/Chuck_E._Cheese,E Inc.,Not Found
+1998,['JD'],https://en.wikipedia.org/wiki/JD.ID,JD.ID,JD
+1996,['Not Found'],https://en.wikipedia.org/wiki/Viant,Viant,Not Found
+1999,['SWI'],https://en.wikipedia.org/wiki/SolarWinds,N-able Technologies,SWI
+2015,['Not Found'],https://en.wikipedia.org/wiki/Smartcar%2C_Inc.,Otonomo,Not Found
+1999,['TTGT'],https://en.wikipedia.org/wiki/TechTarget,TechTarget,TTGT
+2012,['Not Found'],https://en.wikipedia.org/wiki/Synlogic,Synlogic,Not Found
+2012,['DASH'],https://en.wikipedia.org/wiki/DoorDash,DoorDash,DASH
+2002,['CDXS'],https://en.wikipedia.org/wiki/Codexis,Codexis,CDXS
+2017,['SWVL'],https://en.wikipedia.org/wiki/SWVL,SWVL,SWVL
+2004,['NTRA'],https://en.wikipedia.org/wiki/Natera,Natera,NTRA
+2012,['JMIA'],https://en.wikipedia.org/wiki/Jumia,Jumia,JMIA
+1999,['DTOL'],https://en.wikipedia.org/wiki/D2L,D2L,DTOL
+2005,['PATH'],https://en.wikipedia.org/wiki/UiPath,UiPath,PATH
+2013,['ROO'],https://en.wikipedia.org/wiki/Deliveroo,Deliveroo Australia,ROO
+1994,['OTLY'],https://en.wikipedia.org/wiki/Oatly,Oatly,OTLY
+2014,['Not Found'],https://en.wikipedia.org/wiki/Science_37_,Science 37,Not Found
+2015,['ROOT'],https://en.wikipedia.org/wiki/Root%2C_Inc.,Root Insurance,ROOT
+2002,['Not Found'],https://en.wikipedia.org/wiki/Everbridge,EverBridge,Not Found
+2003,['NSTGQ'],https://en.wikipedia.org/wiki/NanoString_Technologies,NanoString,NSTGQ
+2005,['VRNS'],https://en.wikipedia.org/wiki/Varonis,Varonis,VRNS
+2011,['RAMP'],https://en.wikipedia.org/wiki/LiveRamp,LiveRamp,RAMP
+2011,['HFG'],https://en.wikipedia.org/wiki/HelloFresh,HelloFresh,HFG
+1997,['BMRN'],https://en.wikipedia.org/wiki/BioMarin,BioMarin,BMRN
+1995,"['TASE', 'LPSN']",https://en.wikipedia.org/wiki/LivePerson,LivePerson,TASE
+2013,['ACAST'],https://en.wikipedia.org/wiki/Acast,Acast,ACAST
+2007,['TBLA'],https://en.wikipedia.org/wiki/Taboola,Taboola,TBLA
+2011,['GDRX'],https://en.wikipedia.org/wiki/GoodRx,GoodRx,GDRX
+2009,['TDUP'],https://en.wikipedia.org/wiki/ThredUp,ThredUp,TDUP
+2017,['Not Found'],https://en.wikipedia.org/wiki/CoreWeave,Core Scientific,Not Found
+2001,['GOCO'],https://en.wikipedia.org/wiki/GoHealth,GoHealth,GOCO
+2009,['NTNX'],https://en.wikipedia.org/wiki/Nutanix,Nutanix,NTNX
+1963,['BIM'],https://en.wikipedia.org/wiki/BioM%C3%A9rieux,Quanterix,BIM
+2006,['SG'],https://en.wikipedia.org/wiki/Sweetgreen,Sweetgreen,SG
+2010,['WRBY'],https://en.wikipedia.org/wiki/Warby_Parker,Warby Parker,WRBY
+2012,['TXG'],https://en.wikipedia.org/wiki/10x_Genomics,10X Genomics,TXG
+2015,['FUBO'],https://en.wikipedia.org/wiki/FuboTV,FuboTV,FUBO
+2014,['Not Found'],https://en.wikipedia.org/wiki/Cook_it,MissFresh,Not Found
+2016,['BIRD'],https://en.wikipedia.org/wiki/Allbirds,Allbirds,BIRD
+2000,"['AEX', 'TKWY']",https://en.wikipedia.org/wiki/Just_Eat_Takeaway,Just Eat Takeaway,AEX
+1894,['Not Found'],https://en.wikipedia.org/wiki/Babylon,Babylon,Not Found
+2014,['FOOD'],https://en.wikipedia.org/wiki/Goodfood,Goodfood,FOOD
+2016,['Not Found'],https://en.wikipedia.org/wiki/Sezzle,Sezzle,Not Found
